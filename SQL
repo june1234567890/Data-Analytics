@@ -1,2 +1,0 @@
-SQL/README.md
-This folder contains my SQL queries and assignments.
