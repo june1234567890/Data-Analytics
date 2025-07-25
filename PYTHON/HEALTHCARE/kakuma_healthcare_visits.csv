@@ -1,0 +1,1001 @@
+Visit_ID,Gender,Age,Zone,Clinic,Visit_Reason,Visit_Date,Medicine_Availability
+VS0001,Male,63,,Kakuma Health Center,Respiratory Infection,2025-06-27,Shortage
+VS0002,Female,17,Kakuma 3,Kalobeyei Clinic,Respiratory Infection,2025-06-04,Shortage
+VS0003,Male,33,,Kalobeyei Clinic,Cough,2025-06-07,Available
+VS0004,Male,29,,Kalobeyei Clinic,Skin Infection,2025-06-22,Available
+VS0005,Male,13,,UNHCR Mobile Unit,Check-up,2025-06-10,Available
+VS0006,,46,Kakuma 2,Kalobeyei Clinic,Check-up,,Out of Stock
+VS0007,Male,35,Kakuma 1,Kakuma Health Center,Maternity,2025-06-21,Shortage
+VS0008,Male,6,Kalobeyei,UNHCR Mobile Unit,Wound,2025-06-15,Out of Stock
+VS0009,Male,69,Kakuma 4,Kalobeyei Clinic,Respiratory Infection,2025-06-15,
+VS0010,Female,47,Kakuma 2,UNHCR Mobile Unit,Cough,2025-06-04,Available
+VS0011,Male,25,Kalobeyei,UNHCR Mobile Unit,Wound,2025-06-23,Out of Stock
+VS0012,Male,66,Kakuma 1,,Respiratory Infection,2025-06-23,Available
+VS0013,Male,10,Kakuma 3,UNHCR Mobile Unit,Cough,2025-06-06,Shortage
+VS0014,Male,56,,Kakuma Health Center,Wound,2025-06-24,Shortage
+VS0015,Female,,Kalobeyei,Kakuma Health Center,Check-up,2025-06-20,Shortage
+VS0016,Male,5,Kakuma 3,UNHCR Mobile Unit,,,Available
+VS0017,Female,33,Kalobeyei,Kalobeyei Clinic,Skin Infection,,Shortage
+VS0018,Female,65,Kakuma 1,UNHCR Mobile Unit,Malaria,2025-06-20,Available
+VS0019,Female,18,Kakuma 1,Kakuma Health Center,Skin Infection,2025-06-12,Out of Stock
+VS0020,Male,49,Kakuma 3,UNHCR Mobile Unit,Diarrhea,,Shortage
+VS0021,Female,11,Kakuma 4,UNHCR Mobile Unit,Skin Infection,2025-06-28,Shortage
+VS0022,Male,26,Kakuma 2,,Respiratory Infection,2025-06-08,Shortage
+VS0023,Female,,Kakuma 4,UNHCR Mobile Unit,Maternity,2025-06-01,Out of Stock
+VS0024,Female,59,Kalobeyei,UNHCR Mobile Unit,Wound,2025-06-05,Shortage
+VS0025,Female,27,Kakuma 2,Kalobeyei Clinic,Maternity,2025-07-01,Available
+VS0026,Female,49,Kakuma 3,Kalobeyei Clinic,Malaria,2025-06-22,Available
+VS0027,Female,33,,Kakuma Health Center,Diarrhea,2025-06-06,Shortage
+VS0028,Female,1,,Kakuma Health Center,Wound,2025-06-29,Shortage
+VS0029,Female,21,Kakuma 1,,Cough,2025-06-21,Out of Stock
+VS0030,Female,55,Kakuma 2,Kalobeyei Clinic,Respiratory Infection,2025-06-03,Out of Stock
+VS0031,Male,6,Kalobeyei,Kakuma Health Center,Diarrhea,2025-06-15,
+VS0032,Male,69,,Kakuma Health Center,Check-up,2025-06-05,Shortage
+VS0033,Female,5,Kakuma 3,Kakuma Health Center,Malaria,2025-06-28,Out of Stock
+VS0034,Female,,Kakuma 2,Kalobeyei Clinic,,2025-06-24,Out of Stock
+VS0035,Female,53,Kakuma 4,UNHCR Mobile Unit,Respiratory Infection,2025-06-14,Available
+VS0036,,23,,,Skin Infection,2025-06-18,Out of Stock
+VS0037,Female,53,Kalobeyei,UNHCR Mobile Unit,Diarrhea,2025-06-16,Available
+VS0038,Male,37,Kakuma 4,Kakuma Health Center,Skin Infection,2025-06-06,Available
+VS0039,Male,17,Kakuma 2,,Respiratory Infection,2025-06-25,
+VS0040,Male,1,Kakuma 2,Kalobeyei Clinic,Check-up,2025-06-24,Available
+VS0041,Male,51,Kakuma 4,Kalobeyei Clinic,Wound,2025-06-14,
+VS0042,Male,45,Kakuma 2,Kakuma Health Center,Cough,2025-06-27,Shortage
+VS0043,Female,4,,UNHCR Mobile Unit,Check-up,2025-06-24,Out of Stock
+VS0044,Female,62,Kakuma 1,Kalobeyei Clinic,Skin Infection,2025-06-08,Shortage
+VS0045,Female,65,Kalobeyei,,Skin Infection,2025-07-01,Available
+VS0046,Female,32,Kalobeyei,Kakuma Health Center,Cough,,Shortage
+VS0047,Female,34,Kakuma 2,Kalobeyei Clinic,Wound,2025-06-07,Out of Stock
+VS0048,Male,,,Kalobeyei Clinic,Diarrhea,2025-06-08,Out of Stock
+VS0049,Female,26,Kakuma 2,Kakuma Health Center,Cough,2025-06-13,
+VS0050,Female,,,,,,Out of Stock
+VS0051,Male,54,,UNHCR Mobile Unit,Malaria,2025-06-18,Shortage
+VS0052,Female,3,Kakuma 2,UNHCR Mobile Unit,Respiratory Infection,2025-06-02,Out of Stock
+VS0053,Male,50,Kakuma 2,Kakuma Health Center,Check-up,2025-06-08,Available
+VS0054,Female,,Kakuma 1,Kalobeyei Clinic,Skin Infection,2025-06-11,Out of Stock
+VS0055,Male,65,Kakuma 2,Kakuma Health Center,Wound,2025-06-01,Shortage
+VS0056,Female,54,Kakuma 1,Kalobeyei Clinic,Respiratory Infection,2025-06-22,Available
+VS0057,Female,5,Kakuma 4,UNHCR Mobile Unit,Check-up,2025-06-29,Shortage
+VS0058,Male,57,Kakuma 3,UNHCR Mobile Unit,,2025-06-06,Available
+VS0059,Male,17,Kakuma 1,Kalobeyei Clinic,Respiratory Infection,2025-06-16,
+VS0060,,,Kakuma 4,Kalobeyei Clinic,Maternity,2025-06-27,Available
+VS0061,Male,,Kakuma 1,Kakuma Health Center,Check-up,2025-06-20,Available
+VS0062,,14,Kakuma 1,UNHCR Mobile Unit,Maternity,2025-06-12,Out of Stock
+VS0063,Male,,Kakuma 3,Kakuma Health Center,Malaria,2025-06-11,Shortage
+VS0064,Male,51,Kalobeyei,Kakuma Health Center,Malaria,2025-06-29,Out of Stock
+VS0065,Male,38,Kalobeyei,Kakuma Health Center,Check-up,2025-07-01,Available
+VS0066,Female,64,Kakuma 1,UNHCR Mobile Unit,Malaria,2025-06-27,Out of Stock
+VS0067,Female,38,Kakuma 2,Kakuma Health Center,Wound,2025-06-29,Available
+VS0068,Male,50,Kakuma 4,Kakuma Health Center,Maternity,2025-06-10,Out of Stock
+VS0069,Female,30,Kakuma 2,Kakuma Health Center,Maternity,2025-06-03,Out of Stock
+VS0070,Female,51,Kakuma 2,Kakuma Health Center,Check-up,,Shortage
+VS0071,Female,63,Kakuma 1,Kakuma Health Center,Malaria,2025-06-27,Available
+VS0072,Female,52,,Kakuma Health Center,Cough,2025-06-03,Shortage
+VS0073,Male,38,Kakuma 1,UNHCR Mobile Unit,Skin Infection,2025-07-01,Available
+VS0074,Female,30,Kakuma 1,Kakuma Health Center,Respiratory Infection,2025-06-15,Out of Stock
+VS0075,Male,51,Kalobeyei,Kalobeyei Clinic,Respiratory Infection,2025-06-16,
+VS0076,Female,5,Kakuma 1,Kakuma Health Center,Maternity,2025-06-29,
+VS0077,Female,29,Kalobeyei,Kakuma Health Center,Check-up,2025-06-13,Shortage
+VS0078,Female,4,Kalobeyei,UNHCR Mobile Unit,Check-up,,Shortage
+VS0079,Male,10,Kakuma 1,UNHCR Mobile Unit,Wound,,Available
+VS0080,,56,Kakuma 3,Kalobeyei Clinic,Diarrhea,2025-06-20,Shortage
+VS0081,Male,17,Kakuma 4,,Skin Infection,2025-06-11,Shortage
+VS0082,Female,17,Kakuma 2,UNHCR Mobile Unit,Diarrhea,2025-06-27,Shortage
+VS0083,Male,69,Kalobeyei,UNHCR Mobile Unit,Maternity,2025-06-21,Out of Stock
+VS0084,Female,34,Kakuma 4,Kakuma Health Center,Respiratory Infection,2025-06-19,Out of Stock
+VS0085,Male,6,Kakuma 3,UNHCR Mobile Unit,Wound,2025-06-22,
+VS0086,Male,,Kakuma 2,Kalobeyei Clinic,Wound,2025-06-11,Available
+VS0087,Female,66,Kakuma 2,,Wound,2025-06-30,Shortage
+VS0088,Male,43,Kalobeyei,Kalobeyei Clinic,Maternity,2025-07-01,Out of Stock
+VS0089,Female,,,Kakuma Health Center,Diarrhea,2025-06-28,Shortage
+VS0090,Female,55,Kakuma 3,UNHCR Mobile Unit,Respiratory Infection,2025-06-16,Shortage
+VS0091,,16,Kalobeyei,Kalobeyei Clinic,Wound,2025-06-21,Out of Stock
+VS0092,Female,8,Kakuma 3,Kakuma Health Center,Respiratory Infection,2025-06-03,
+VS0093,Female,4,Kakuma 1,Kakuma Health Center,Malaria,2025-06-22,Out of Stock
+VS0094,Female,4,Kakuma 1,UNHCR Mobile Unit,,2025-06-06,
+VS0095,Female,56,Kalobeyei,UNHCR Mobile Unit,Check-up,2025-07-01,Available
+VS0096,Female,25,Kakuma 1,UNHCR Mobile Unit,Respiratory Infection,2025-06-14,Shortage
+VS0097,Female,67,Kakuma 4,Kalobeyei Clinic,Cough,2025-06-24,Available
+VS0098,Female,67,Kakuma 2,Kakuma Health Center,,2025-06-18,
+VS0099,Female,27,Kalobeyei,UNHCR Mobile Unit,,2025-06-17,Out of Stock
+VS0100,Male,32,Kakuma 3,Kalobeyei Clinic,Maternity,2025-06-04,
+VS0101,Male,50,Kakuma 4,Kalobeyei Clinic,Check-up,,Shortage
+VS0102,,61,Kalobeyei,Kalobeyei Clinic,Malaria,2025-06-15,Shortage
+VS0103,Female,51,Kakuma 1,UNHCR Mobile Unit,Skin Infection,2025-06-11,Available
+VS0104,Female,19,Kakuma 1,UNHCR Mobile Unit,Diarrhea,,Shortage
+VS0105,Female,21,Kakuma 1,Kakuma Health Center,Diarrhea,2025-06-03,Shortage
+VS0106,Female,5,,Kakuma Health Center,Maternity,2025-06-03,Shortage
+VS0107,Female,42,Kakuma 3,UNHCR Mobile Unit,Malaria,2025-06-16,Out of Stock
+VS0108,Female,61,Kakuma 4,,Maternity,2025-06-05,Out of Stock
+VS0109,,22,Kakuma 2,Kalobeyei Clinic,Skin Infection,2025-06-21,Available
+VS0110,Male,21,Kakuma 3,Kalobeyei Clinic,Diarrhea,2025-06-29,Out of Stock
+VS0111,Female,1,Kakuma 3,Kakuma Health Center,Respiratory Infection,2025-06-10,Shortage
+VS0112,Male,5,Kakuma 2,Kalobeyei Clinic,Maternity,2025-06-19,Out of Stock
+VS0113,Female,,Kakuma 2,Kakuma Health Center,Wound,2025-06-25,Available
+VS0114,Female,46,Kakuma 1,Kakuma Health Center,Respiratory Infection,2025-06-04,Out of Stock
+VS0115,Male,34,Kakuma 3,Kalobeyei Clinic,Skin Infection,2025-06-29,Shortage
+VS0116,Female,49,Kalobeyei,Kalobeyei Clinic,Skin Infection,2025-06-29,Shortage
+VS0117,Male,45,,,Maternity,2025-07-01,Available
+VS0118,Female,27,Kakuma 2,UNHCR Mobile Unit,Check-up,2025-06-19,Out of Stock
+VS0119,Female,26,Kakuma 4,Kalobeyei Clinic,Maternity,2025-06-11,Out of Stock
+VS0120,Male,47,,Kakuma Health Center,Check-up,2025-06-02,Out of Stock
+VS0121,Female,,Kalobeyei,Kakuma Health Center,Skin Infection,2025-06-10,Shortage
+VS0122,Male,63,Kakuma 2,Kakuma Health Center,Malaria,2025-06-29,Available
+VS0123,Female,48,Kakuma 1,Kakuma Health Center,Skin Infection,2025-06-11,
+VS0124,Male,,Kakuma 4,,Diarrhea,,Shortage
+VS0125,Male,26,Kalobeyei,UNHCR Mobile Unit,Respiratory Infection,2025-06-20,Shortage
+VS0126,Female,36,,Kalobeyei Clinic,Respiratory Infection,2025-06-16,Shortage
+VS0127,Female,1,Kalobeyei,,Cough,2025-06-19,Out of Stock
+VS0128,Male,8,Kakuma 4,Kakuma Health Center,Cough,2025-06-23,Out of Stock
+VS0129,Female,52,Kakuma 4,,Skin Infection,2025-06-24,
+VS0130,Female,47,Kakuma 3,Kakuma Health Center,Diarrhea,2025-06-11,Out of Stock
+VS0131,Female,56,Kakuma 2,Kakuma Health Center,Cough,2025-06-14,Out of Stock
+VS0132,Male,14,,Kalobeyei Clinic,Respiratory Infection,2025-06-02,Out of Stock
+VS0133,,28,Kakuma 3,Kakuma Health Center,,2025-06-23,Out of Stock
+VS0134,Male,2,Kakuma 3,Kalobeyei Clinic,Malaria,2025-06-28,Out of Stock
+VS0135,Male,26,Kalobeyei,Kakuma Health Center,Malaria,2025-06-05,Out of Stock
+VS0136,Male,,Kalobeyei,Kalobeyei Clinic,Diarrhea,2025-07-01,Shortage
+VS0137,Male,59,Kakuma 3,UNHCR Mobile Unit,Skin Infection,2025-06-27,Out of Stock
+VS0138,Male,56,Kalobeyei,Kakuma Health Center,Cough,2025-06-05,Available
+VS0139,Male,,Kakuma 4,Kalobeyei Clinic,Maternity,2025-06-19,Shortage
+VS0140,Male,3,Kakuma 1,UNHCR Mobile Unit,Malaria,2025-06-21,Out of Stock
+VS0141,,23,Kakuma 4,Kakuma Health Center,Malaria,2025-06-12,Available
+VS0142,,18,,Kakuma Health Center,Wound,2025-06-18,
+VS0143,Female,38,Kakuma 3,Kakuma Health Center,Skin Infection,2025-06-04,Available
+VS0144,Female,15,Kakuma 4,Kalobeyei Clinic,Wound,2025-06-22,Available
+VS0145,Female,64,Kalobeyei,Kalobeyei Clinic,Respiratory Infection,2025-06-17,Available
+VS0146,Male,28,Kalobeyei,UNHCR Mobile Unit,Malaria,2025-06-10,Available
+VS0147,Male,39,Kakuma 3,Kalobeyei Clinic,Diarrhea,,Shortage
+VS0148,Male,,,Kalobeyei Clinic,Check-up,2025-06-06,Shortage
+VS0149,Male,17,Kalobeyei,Kakuma Health Center,,2025-06-25,Available
+VS0150,Female,44,,Kakuma Health Center,Maternity,2025-06-14,Out of Stock
+VS0151,Male,25,Kalobeyei,Kakuma Health Center,Malaria,2025-06-11,Available
+VS0152,Male,17,Kakuma 4,Kakuma Health Center,Malaria,2025-06-11,Shortage
+VS0153,,13,Kakuma 3,Kakuma Health Center,Respiratory Infection,2025-06-29,
+VS0154,Male,25,Kalobeyei,Kakuma Health Center,Malaria,2025-06-18,Shortage
+VS0155,Male,68,Kakuma 4,,Diarrhea,2025-06-27,Shortage
+VS0156,,10,Kakuma 3,UNHCR Mobile Unit,Wound,2025-06-23,Out of Stock
+VS0157,Male,67,Kakuma 2,UNHCR Mobile Unit,Malaria,2025-06-22,Available
+VS0158,Female,18,Kakuma 4,UNHCR Mobile Unit,,2025-06-18,Available
+VS0159,,34,Kakuma 2,UNHCR Mobile Unit,Respiratory Infection,2025-06-24,Available
+VS0160,,8,Kakuma 2,Kakuma Health Center,Skin Infection,2025-06-23,Available
+VS0161,Male,40,Kakuma 1,UNHCR Mobile Unit,Cough,2025-06-11,Out of Stock
+VS0162,Male,42,Kalobeyei,Kakuma Health Center,,2025-06-21,Out of Stock
+VS0163,,41,Kakuma 4,UNHCR Mobile Unit,Respiratory Infection,,
+VS0164,Female,6,Kakuma 2,Kalobeyei Clinic,Skin Infection,2025-06-05,Shortage
+VS0165,Female,52,Kakuma 1,UNHCR Mobile Unit,Respiratory Infection,2025-06-23,Out of Stock
+VS0166,Male,26,Kakuma 3,UNHCR Mobile Unit,Diarrhea,2025-06-09,Available
+VS0167,Female,64,Kakuma 4,Kakuma Health Center,Maternity,2025-06-27,Shortage
+VS0168,Male,59,,UNHCR Mobile Unit,Malaria,2025-07-01,Available
+VS0169,Male,56,Kalobeyei,Kalobeyei Clinic,Respiratory Infection,,Available
+VS0170,Female,59,Kakuma 1,Kakuma Health Center,Respiratory Infection,2025-06-09,Out of Stock
+VS0171,Female,33,Kakuma 2,,Cough,2025-06-22,Out of Stock
+VS0172,Male,53,Kalobeyei,UNHCR Mobile Unit,Respiratory Infection,2025-06-10,Available
+VS0173,Male,22,Kakuma 2,Kakuma Health Center,Check-up,2025-06-22,Available
+VS0174,Female,21,Kakuma 4,,Maternity,2025-06-19,Shortage
+VS0175,Female,4,Kakuma 4,Kakuma Health Center,Malaria,2025-06-01,Out of Stock
+VS0176,Female,62,Kakuma 4,Kakuma Health Center,Malaria,2025-06-07,Shortage
+VS0177,Male,62,Kakuma 1,Kakuma Health Center,Cough,2025-06-04,
+VS0178,,24,Kakuma 4,Kakuma Health Center,Diarrhea,2025-06-01,Shortage
+VS0179,Male,55,Kalobeyei,Kalobeyei Clinic,Malaria,2025-06-15,Available
+VS0180,Male,9,Kakuma 2,UNHCR Mobile Unit,Check-up,2025-06-08,Shortage
+VS0181,Male,3,Kakuma 3,,Malaria,2025-06-12,
+VS0182,Male,31,Kalobeyei,Kakuma Health Center,Check-up,2025-06-22,Available
+VS0183,Female,40,Kalobeyei,Kakuma Health Center,Maternity,2025-06-22,Out of Stock
+VS0184,Male,36,Kakuma 4,UNHCR Mobile Unit,Maternity,2025-06-18,Out of Stock
+VS0185,Male,24,Kakuma 1,Kalobeyei Clinic,Wound,2025-06-15,
+VS0186,Male,6,Kakuma 2,UNHCR Mobile Unit,Wound,2025-06-17,Available
+VS0187,Female,66,Kakuma 1,Kalobeyei Clinic,,2025-06-29,Out of Stock
+VS0188,Male,4,Kakuma 2,Kakuma Health Center,Diarrhea,,Shortage
+VS0189,Male,6,Kakuma 2,UNHCR Mobile Unit,Malaria,2025-06-14,
+VS0190,Female,,Kakuma 1,UNHCR Mobile Unit,,2025-06-18,Available
+VS0191,Male,62,Kalobeyei,Kakuma Health Center,Malaria,2025-06-20,Shortage
+VS0192,Male,,Kakuma 2,UNHCR Mobile Unit,Wound,2025-06-18,Out of Stock
+VS0193,Male,66,Kakuma 1,Kalobeyei Clinic,Skin Infection,,Available
+VS0194,,8,,Kalobeyei Clinic,Respiratory Infection,2025-06-01,Out of Stock
+VS0195,Male,26,Kakuma 3,Kalobeyei Clinic,Check-up,2025-06-23,Out of Stock
+VS0196,Female,51,Kalobeyei,Kalobeyei Clinic,,2025-06-27,Out of Stock
+VS0197,Female,45,Kakuma 4,,Skin Infection,2025-06-11,
+VS0198,Female,44,Kakuma 2,UNHCR Mobile Unit,Malaria,2025-06-15,Shortage
+VS0199,Male,5,Kakuma 3,Kalobeyei Clinic,Malaria,2025-06-12,Out of Stock
+VS0200,Male,26,Kakuma 4,,Diarrhea,2025-06-08,Out of Stock
+VS0201,Male,68,Kakuma 4,UNHCR Mobile Unit,Cough,2025-06-22,Available
+VS0202,,19,Kakuma 2,UNHCR Mobile Unit,Respiratory Infection,2025-06-20,Available
+VS0203,Male,20,,Kakuma Health Center,Wound,2025-06-30,Shortage
+VS0204,Male,12,Kakuma 2,Kakuma Health Center,Skin Infection,2025-06-06,Shortage
+VS0205,Female,47,Kakuma 3,Kalobeyei Clinic,Skin Infection,2025-06-03,Available
+VS0206,Male,1,Kakuma 4,UNHCR Mobile Unit,Skin Infection,2025-06-28,Out of Stock
+VS0207,Female,14,Kakuma 2,UNHCR Mobile Unit,Wound,2025-06-24,Shortage
+VS0208,,64,Kakuma 1,Kakuma Health Center,Cough,2025-06-26,Out of Stock
+VS0209,Female,38,Kakuma 2,UNHCR Mobile Unit,Malaria,,Available
+VS0210,,37,Kalobeyei,Kalobeyei Clinic,Diarrhea,2025-06-13,Shortage
+VS0211,Male,11,Kakuma 1,UNHCR Mobile Unit,Diarrhea,2025-06-13,Shortage
+VS0212,Male,3,Kakuma 3,Kakuma Health Center,Wound,2025-06-02,
+VS0213,Male,,Kakuma 4,Kakuma Health Center,Diarrhea,2025-06-05,Shortage
+VS0214,Male,6,Kakuma 2,Kalobeyei Clinic,Skin Infection,2025-06-17,Available
+VS0215,Male,50,Kakuma 1,Kalobeyei Clinic,,2025-06-06,Shortage
+VS0216,Male,10,Kalobeyei,,Cough,2025-06-02,Available
+VS0217,Female,5,Kakuma 1,UNHCR Mobile Unit,Malaria,2025-06-04,Shortage
+VS0218,Male,23,Kalobeyei,Kakuma Health Center,Maternity,2025-06-22,Out of Stock
+VS0219,Female,10,Kakuma 3,Kalobeyei Clinic,Cough,2025-06-26,Out of Stock
+VS0220,Male,44,Kakuma 4,,Check-up,2025-06-11,Out of Stock
+VS0221,Male,2,Kakuma 3,Kalobeyei Clinic,Respiratory Infection,2025-06-08,Shortage
+VS0222,Male,,Kakuma 2,UNHCR Mobile Unit,Wound,2025-06-12,Shortage
+VS0223,Female,40,Kakuma 1,Kalobeyei Clinic,Skin Infection,2025-06-08,
+VS0224,Female,2,Kalobeyei,Kakuma Health Center,Diarrhea,2025-06-11,Out of Stock
+VS0225,,65,Kalobeyei,Kakuma Health Center,Check-up,2025-06-22,Available
+VS0226,Female,63,Kakuma 1,,Diarrhea,2025-06-20,Available
+VS0227,,17,Kakuma 1,UNHCR Mobile Unit,Maternity,2025-06-08,Available
+VS0228,Female,9,Kakuma 2,Kalobeyei Clinic,Malaria,2025-06-29,Out of Stock
+VS0229,Male,15,Kakuma 3,UNHCR Mobile Unit,Malaria,2025-06-08,Out of Stock
+VS0230,Male,24,Kalobeyei,Kakuma Health Center,Malaria,2025-06-26,
+VS0231,,38,Kakuma 2,Kalobeyei Clinic,Skin Infection,2025-06-30,Available
+VS0232,Female,35,Kakuma 3,,Diarrhea,2025-06-17,Shortage
+VS0233,Female,49,Kakuma 2,Kalobeyei Clinic,Check-up,2025-06-20,Out of Stock
+VS0234,Female,69,Kalobeyei,UNHCR Mobile Unit,Malaria,2025-06-20,Shortage
+VS0235,,62,Kakuma 1,Kalobeyei Clinic,Check-up,2025-06-23,Shortage
+VS0236,Female,60,Kakuma 1,Kalobeyei Clinic,,2025-06-16,Shortage
+VS0237,Female,50,Kakuma 3,Kakuma Health Center,Skin Infection,2025-06-14,Available
+VS0238,Female,9,Kakuma 4,,Maternity,2025-06-30,
+VS0239,Male,34,Kakuma 3,Kalobeyei Clinic,Skin Infection,2025-06-11,Out of Stock
+VS0240,Female,35,Kakuma 4,UNHCR Mobile Unit,,2025-06-07,Available
+VS0241,Female,1,,UNHCR Mobile Unit,Skin Infection,2025-06-16,Out of Stock
+VS0242,Male,40,Kakuma 2,Kakuma Health Center,Skin Infection,2025-06-13,Out of Stock
+VS0243,Female,64,Kalobeyei,UNHCR Mobile Unit,,2025-06-27,Available
+VS0244,,22,Kakuma 4,Kakuma Health Center,Diarrhea,2025-06-15,Out of Stock
+VS0245,Male,,Kalobeyei,UNHCR Mobile Unit,Diarrhea,2025-06-24,Out of Stock
+VS0246,Female,64,Kakuma 1,Kalobeyei Clinic,Wound,2025-06-16,Available
+VS0247,Male,11,Kakuma 4,Kakuma Health Center,Skin Infection,2025-06-27,Out of Stock
+VS0248,Male,14,Kakuma 3,,Diarrhea,,Shortage
+VS0249,Male,60,Kakuma 1,Kalobeyei Clinic,Diarrhea,2025-06-23,Out of Stock
+VS0250,Male,30,Kakuma 1,Kakuma Health Center,Cough,2025-06-24,Shortage
+VS0251,Female,35,Kakuma 3,UNHCR Mobile Unit,Malaria,2025-07-01,Out of Stock
+VS0252,Male,37,Kakuma 1,UNHCR Mobile Unit,,2025-06-09,Available
+VS0253,Female,,Kakuma 4,Kakuma Health Center,Respiratory Infection,2025-06-03,Available
+VS0254,Male,26,Kalobeyei,UNHCR Mobile Unit,Wound,2025-06-19,Out of Stock
+VS0255,Male,62,Kakuma 1,Kakuma Health Center,Wound,2025-06-20,Available
+VS0256,Male,,Kakuma 4,,,2025-06-05,Out of Stock
+VS0257,Male,42,Kakuma 2,Kakuma Health Center,Cough,2025-06-10,Available
+VS0258,,18,Kakuma 4,,Skin Infection,2025-06-17,Shortage
+VS0259,Female,40,Kalobeyei,,Maternity,2025-06-15,
+VS0260,Male,39,Kakuma 4,Kalobeyei Clinic,Diarrhea,2025-07-01,Shortage
+VS0261,Male,14,Kakuma 3,,Malaria,,Shortage
+VS0262,Female,32,Kalobeyei,Kakuma Health Center,Check-up,2025-06-25,Out of Stock
+VS0263,Male,51,,,,2025-06-08,Shortage
+VS0264,Male,38,Kakuma 3,Kakuma Health Center,Respiratory Infection,2025-06-15,Out of Stock
+VS0265,Male,23,Kakuma 4,Kakuma Health Center,Maternity,2025-07-01,Shortage
+VS0266,Female,63,Kalobeyei,Kalobeyei Clinic,Skin Infection,2025-06-21,Out of Stock
+VS0267,Female,15,Kakuma 2,Kalobeyei Clinic,Respiratory Infection,,Out of Stock
+VS0268,Female,25,Kakuma 3,Kalobeyei Clinic,Diarrhea,2025-06-14,Available
+VS0269,Male,17,Kakuma 2,Kalobeyei Clinic,Cough,,Out of Stock
+VS0270,Male,66,Kakuma 4,UNHCR Mobile Unit,Skin Infection,2025-06-28,Out of Stock
+VS0271,Female,53,Kakuma 2,UNHCR Mobile Unit,Respiratory Infection,2025-06-07,
+VS0272,Female,51,Kakuma 1,UNHCR Mobile Unit,,2025-06-21,Out of Stock
+VS0273,Female,39,Kakuma 3,Kakuma Health Center,Diarrhea,2025-06-23,Available
+VS0274,Female,,Kakuma 2,UNHCR Mobile Unit,Cough,2025-06-12,Shortage
+VS0275,Male,6,,UNHCR Mobile Unit,Wound,2025-06-17,Shortage
+VS0276,Female,67,Kakuma 4,UNHCR Mobile Unit,,,Available
+VS0277,Male,7,Kakuma 2,Kalobeyei Clinic,Skin Infection,2025-06-10,Shortage
+VS0278,Female,,Kakuma 4,UNHCR Mobile Unit,Wound,2025-06-30,
+VS0279,Male,42,Kalobeyei,Kakuma Health Center,Malaria,2025-06-29,Shortage
+VS0280,,64,Kalobeyei,Kalobeyei Clinic,Malaria,2025-06-19,Shortage
+VS0281,,15,Kalobeyei,Kakuma Health Center,Wound,2025-06-14,
+VS0282,Female,,Kakuma 1,,Maternity,2025-06-11,Available
+VS0283,Female,33,Kakuma 2,Kalobeyei Clinic,,2025-06-02,Shortage
+VS0284,Male,27,Kakuma 1,,Diarrhea,,Shortage
+VS0285,Female,36,Kakuma 4,UNHCR Mobile Unit,Check-up,,Available
+VS0286,Male,29,Kakuma 1,Kakuma Health Center,Diarrhea,2025-06-12,Available
+VS0287,Male,,Kakuma 4,Kakuma Health Center,Wound,,Available
+VS0288,Male,57,Kakuma 4,Kakuma Health Center,Malaria,2025-06-02,Shortage
+VS0289,Male,27,Kakuma 3,UNHCR Mobile Unit,Maternity,,Shortage
+VS0290,Female,55,Kalobeyei,UNHCR Mobile Unit,,2025-06-20,Out of Stock
+VS0291,Male,33,Kakuma 4,Kakuma Health Center,Check-up,,Available
+VS0292,Male,68,Kakuma 3,Kalobeyei Clinic,Malaria,2025-06-06,Shortage
+VS0293,Male,66,Kalobeyei,Kalobeyei Clinic,Wound,2025-06-24,Available
+VS0294,Female,,,UNHCR Mobile Unit,Maternity,,Shortage
+VS0295,Female,5,Kakuma 4,UNHCR Mobile Unit,Check-up,2025-06-20,Available
+VS0296,Female,38,Kakuma 1,UNHCR Mobile Unit,Maternity,2025-06-15,Shortage
+VS0297,Female,13,Kakuma 1,UNHCR Mobile Unit,Skin Infection,2025-06-05,Out of Stock
+VS0298,Male,31,Kalobeyei,UNHCR Mobile Unit,Diarrhea,2025-06-20,Out of Stock
+VS0299,Male,47,Kakuma 4,Kalobeyei Clinic,Malaria,2025-06-03,Available
+VS0300,Female,52,Kakuma 2,UNHCR Mobile Unit,Maternity,2025-06-05,Shortage
+VS0301,Male,56,Kakuma 1,Kakuma Health Center,Cough,2025-06-30,
+VS0302,Male,15,Kalobeyei,Kakuma Health Center,Skin Infection,2025-06-25,Available
+VS0303,Male,,Kakuma 4,Kalobeyei Clinic,Malaria,2025-06-08,Shortage
+VS0304,Female,8,Kakuma 4,Kakuma Health Center,,2025-06-08,Available
+VS0305,Female,5,Kakuma 2,,,,Shortage
+VS0306,Male,29,,Kalobeyei Clinic,Check-up,2025-06-12,Available
+VS0307,,47,Kakuma 4,Kakuma Health Center,Diarrhea,2025-06-24,Shortage
+VS0308,Female,68,Kakuma 1,UNHCR Mobile Unit,Cough,2025-06-23,Available
+VS0309,,45,Kakuma 2,Kakuma Health Center,Maternity,2025-06-08,Shortage
+VS0310,Female,2,Kalobeyei,Kakuma Health Center,Respiratory Infection,,Out of Stock
+VS0311,,27,Kakuma 2,Kalobeyei Clinic,Respiratory Infection,2025-06-14,Shortage
+VS0312,Male,36,Kakuma 1,Kakuma Health Center,Wound,2025-06-08,Available
+VS0313,Female,36,Kalobeyei,Kalobeyei Clinic,,2025-06-29,Out of Stock
+VS0314,Male,26,,UNHCR Mobile Unit,Check-up,2025-06-30,Shortage
+VS0315,,43,Kakuma 3,UNHCR Mobile Unit,Wound,,Out of Stock
+VS0316,Female,27,,UNHCR Mobile Unit,Maternity,2025-06-28,Shortage
+VS0317,Male,,Kakuma 1,Kakuma Health Center,Respiratory Infection,2025-06-10,Out of Stock
+VS0318,Male,20,Kakuma 1,Kalobeyei Clinic,Respiratory Infection,2025-06-07,Available
+VS0319,Male,,,,Respiratory Infection,2025-06-28,Shortage
+VS0320,,38,Kakuma 3,Kalobeyei Clinic,Maternity,2025-06-17,Shortage
+VS0321,Female,6,Kakuma 4,Kalobeyei Clinic,Respiratory Infection,,Available
+VS0322,Male,23,,UNHCR Mobile Unit,Diarrhea,2025-06-29,Out of Stock
+VS0323,Female,47,Kakuma 4,UNHCR Mobile Unit,,2025-06-13,Available
+VS0324,Female,46,Kakuma 2,Kalobeyei Clinic,Maternity,2025-06-04,Available
+VS0325,Female,12,Kakuma 3,UNHCR Mobile Unit,Check-up,2025-06-05,Out of Stock
+VS0326,Female,13,Kakuma 3,Kalobeyei Clinic,Skin Infection,2025-06-26,Available
+VS0327,Male,62,Kakuma 4,Kalobeyei Clinic,Wound,2025-06-22,
+VS0328,Male,60,Kalobeyei,UNHCR Mobile Unit,Check-up,2025-06-04,Shortage
+VS0329,Female,43,Kakuma 4,Kakuma Health Center,,2025-07-01,Shortage
+VS0330,Female,68,Kakuma 2,UNHCR Mobile Unit,Cough,2025-06-18,Available
+VS0331,Male,5,Kakuma 4,Kakuma Health Center,Respiratory Infection,2025-06-06,Shortage
+VS0332,Male,37,Kakuma 1,Kalobeyei Clinic,Cough,2025-07-01,Shortage
+VS0333,Female,31,Kakuma 2,Kalobeyei Clinic,Malaria,,Shortage
+VS0334,Male,9,Kakuma 2,Kakuma Health Center,Malaria,2025-07-01,Shortage
+VS0335,Female,51,Kalobeyei,Kalobeyei Clinic,,2025-06-24,Shortage
+VS0336,Female,29,Kakuma 3,Kakuma Health Center,Cough,2025-06-23,Shortage
+VS0337,Male,,,Kakuma Health Center,Maternity,2025-06-22,Available
+VS0338,Male,41,Kakuma 3,Kalobeyei Clinic,Check-up,2025-06-02,Shortage
+VS0339,Female,,Kakuma 4,Kakuma Health Center,Cough,2025-07-01,Shortage
+VS0340,Female,23,Kakuma 1,UNHCR Mobile Unit,,2025-06-23,Out of Stock
+VS0341,Male,1,Kalobeyei,UNHCR Mobile Unit,Cough,2025-06-11,Available
+VS0342,Female,46,Kakuma 3,,Maternity,2025-06-28,Available
+VS0343,,21,Kakuma 2,Kalobeyei Clinic,Cough,2025-06-14,Available
+VS0344,Female,36,Kakuma 3,,Check-up,2025-06-30,Available
+VS0345,,54,Kakuma 2,Kakuma Health Center,Wound,2025-06-05,Shortage
+VS0346,Male,57,Kakuma 3,Kakuma Health Center,Maternity,2025-06-06,Shortage
+VS0347,Male,1,Kakuma 2,Kakuma Health Center,Malaria,2025-06-10,Out of Stock
+VS0348,Female,63,Kakuma 4,UNHCR Mobile Unit,Check-up,2025-06-08,Out of Stock
+VS0349,Female,54,Kakuma 2,UNHCR Mobile Unit,Cough,2025-06-14,Available
+VS0350,Male,55,Kakuma 2,Kalobeyei Clinic,Cough,,Out of Stock
+VS0351,Female,40,Kakuma 1,Kakuma Health Center,Wound,,Out of Stock
+VS0352,Male,15,Kakuma 2,Kakuma Health Center,Malaria,2025-06-12,Available
+VS0353,Male,21,Kakuma 1,Kalobeyei Clinic,Malaria,2025-06-16,Available
+VS0354,Female,,Kalobeyei,Kakuma Health Center,Diarrhea,2025-06-28,Out of Stock
+VS0355,Female,53,Kakuma 1,Kakuma Health Center,Malaria,2025-06-30,Shortage
+VS0356,Male,,Kakuma 4,Kakuma Health Center,Wound,,Out of Stock
+VS0357,Female,52,Kakuma 1,Kakuma Health Center,Respiratory Infection,2025-06-17,
+VS0358,Female,57,Kalobeyei,Kakuma Health Center,,2025-06-01,Shortage
+VS0359,,,Kakuma 4,Kalobeyei Clinic,Diarrhea,2025-06-23,Shortage
+VS0360,Male,,Kakuma 3,Kakuma Health Center,Cough,2025-07-01,Available
+VS0361,Female,35,Kakuma 3,Kalobeyei Clinic,Cough,2025-07-01,Available
+VS0362,,63,Kakuma 1,Kakuma Health Center,Malaria,,Out of Stock
+VS0363,Male,,Kakuma 1,UNHCR Mobile Unit,Diarrhea,2025-06-25,Shortage
+VS0364,Female,38,Kalobeyei,UNHCR Mobile Unit,Skin Infection,2025-06-23,Available
+VS0365,Male,2,Kalobeyei,UNHCR Mobile Unit,Cough,2025-06-10,Out of Stock
+VS0366,Male,7,Kakuma 2,UNHCR Mobile Unit,Wound,2025-06-21,
+VS0367,Female,34,Kalobeyei,Kalobeyei Clinic,,2025-06-24,Out of Stock
+VS0368,Female,17,Kakuma 2,Kalobeyei Clinic,Cough,2025-06-02,Available
+VS0369,Male,43,Kakuma 4,Kakuma Health Center,Maternity,2025-06-09,Available
+VS0370,Male,59,Kakuma 1,,,2025-06-22,Shortage
+VS0371,Female,51,Kakuma 4,Kalobeyei Clinic,,2025-06-13,Out of Stock
+VS0372,Female,54,Kalobeyei,Kakuma Health Center,Diarrhea,,Shortage
+VS0373,Female,24,Kakuma 4,Kakuma Health Center,Respiratory Infection,2025-06-16,Available
+VS0374,,25,Kakuma 4,Kalobeyei Clinic,Respiratory Infection,,Available
+VS0375,Male,52,Kakuma 4,UNHCR Mobile Unit,Diarrhea,2025-06-19,
+VS0376,Female,33,Kalobeyei,Kakuma Health Center,Check-up,2025-06-12,Out of Stock
+VS0377,Female,49,Kakuma 4,UNHCR Mobile Unit,Respiratory Infection,2025-06-08,Out of Stock
+VS0378,Male,29,Kakuma 2,UNHCR Mobile Unit,Maternity,2025-06-17,
+VS0379,Female,63,Kalobeyei,UNHCR Mobile Unit,Wound,2025-06-15,Out of Stock
+VS0380,,22,Kakuma 4,Kakuma Health Center,Diarrhea,2025-06-10,Out of Stock
+VS0381,Female,26,,UNHCR Mobile Unit,Malaria,2025-06-15,Available
+VS0382,Female,28,Kakuma 3,Kakuma Health Center,Maternity,2025-06-15,
+VS0383,Female,,Kakuma 2,UNHCR Mobile Unit,Wound,2025-07-01,Out of Stock
+VS0384,Male,49,Kakuma 4,Kakuma Health Center,Wound,2025-06-23,Out of Stock
+VS0385,Male,,Kakuma 3,UNHCR Mobile Unit,Diarrhea,2025-06-07,Available
+VS0386,Female,63,Kakuma 3,Kalobeyei Clinic,Wound,2025-06-13,Out of Stock
+VS0387,Male,61,Kalobeyei,UNHCR Mobile Unit,Diarrhea,2025-06-17,Shortage
+VS0388,Male,49,Kakuma 3,,Respiratory Infection,2025-06-09,Shortage
+VS0389,Male,1,Kakuma 2,Kakuma Health Center,,,Shortage
+VS0390,Male,13,Kakuma 2,Kakuma Health Center,Maternity,2025-06-20,Out of Stock
+VS0391,Male,51,Kakuma 1,UNHCR Mobile Unit,Check-up,2025-06-26,Available
+VS0392,Male,56,Kakuma 2,Kalobeyei Clinic,Cough,2025-06-27,Out of Stock
+VS0393,Female,62,Kakuma 3,Kalobeyei Clinic,Maternity,2025-06-21,Out of Stock
+VS0394,Female,32,Kakuma 2,Kakuma Health Center,Diarrhea,2025-06-18,Available
+VS0395,Male,30,Kalobeyei,Kalobeyei Clinic,Maternity,2025-06-13,Available
+VS0396,Female,29,Kakuma 1,UNHCR Mobile Unit,Respiratory Infection,2025-06-16,Available
+VS0397,Female,49,,Kakuma Health Center,Diarrhea,2025-06-09,Shortage
+VS0398,Female,45,Kakuma 1,UNHCR Mobile Unit,Cough,2025-07-01,Out of Stock
+VS0399,Female,30,Kakuma 3,Kakuma Health Center,,2025-06-12,Available
+VS0400,Male,,Kalobeyei,Kakuma Health Center,Malaria,2025-06-12,
+VS0401,Female,40,Kakuma 1,Kakuma Health Center,Skin Infection,2025-06-06,Shortage
+VS0402,Female,19,Kakuma 4,Kakuma Health Center,Skin Infection,,Shortage
+VS0403,Male,18,Kakuma 3,Kalobeyei Clinic,Maternity,2025-06-28,Available
+VS0404,Male,1,Kakuma 4,UNHCR Mobile Unit,Malaria,2025-06-07,Available
+VS0405,Female,47,Kakuma 1,UNHCR Mobile Unit,Diarrhea,2025-06-25,Out of Stock
+VS0406,Female,66,Kakuma 4,UNHCR Mobile Unit,Wound,2025-06-03,Available
+VS0407,Female,38,Kakuma 4,Kakuma Health Center,,2025-06-16,Out of Stock
+VS0408,Female,51,,Kalobeyei Clinic,Wound,2025-06-18,Available
+VS0409,Female,63,Kalobeyei,UNHCR Mobile Unit,Cough,2025-06-16,Out of Stock
+VS0410,Female,4,Kakuma 4,Kalobeyei Clinic,Check-up,2025-06-23,Out of Stock
+VS0411,Male,1,,,Wound,2025-06-07,Out of Stock
+VS0412,Female,8,Kalobeyei,,Malaria,2025-06-04,Out of Stock
+VS0413,Female,29,Kakuma 4,Kalobeyei Clinic,Diarrhea,2025-06-27,Shortage
+VS0414,Male,55,Kakuma 4,Kakuma Health Center,Cough,2025-06-25,Out of Stock
+VS0415,Male,3,Kakuma 4,Kalobeyei Clinic,Malaria,2025-06-30,Available
+VS0416,Male,32,Kakuma 2,UNHCR Mobile Unit,Cough,2025-06-08,Shortage
+VS0417,Male,10,Kalobeyei,,Check-up,2025-06-13,
+VS0418,Female,34,Kakuma 4,Kakuma Health Center,,2025-06-13,Out of Stock
+VS0419,Female,55,Kalobeyei,Kakuma Health Center,Diarrhea,2025-06-17,Shortage
+VS0420,Female,32,Kakuma 3,Kakuma Health Center,Maternity,2025-06-17,Out of Stock
+VS0421,Female,50,Kakuma 3,Kalobeyei Clinic,Diarrhea,2025-06-05,Available
+VS0422,Female,,Kakuma 4,Kalobeyei Clinic,,2025-06-06,Out of Stock
+VS0423,Female,8,Kalobeyei,Kalobeyei Clinic,Check-up,2025-06-19,Shortage
+VS0424,Male,65,Kalobeyei,Kakuma Health Center,Diarrhea,2025-06-13,Available
+VS0425,Female,57,,UNHCR Mobile Unit,Skin Infection,2025-06-25,Out of Stock
+VS0426,Male,67,,UNHCR Mobile Unit,,2025-06-28,
+VS0427,Male,59,,Kalobeyei Clinic,Wound,2025-06-26,Available
+VS0428,,54,Kalobeyei,Kalobeyei Clinic,Cough,,Shortage
+VS0429,Male,67,Kalobeyei,,,2025-07-01,Available
+VS0430,Female,51,Kakuma 2,UNHCR Mobile Unit,,2025-06-22,Shortage
+VS0431,Male,8,Kakuma 2,Kalobeyei Clinic,Check-up,2025-06-04,
+VS0432,Female,34,Kalobeyei,Kalobeyei Clinic,Wound,2025-06-28,Out of Stock
+VS0433,Male,35,Kakuma 1,UNHCR Mobile Unit,Malaria,2025-06-07,Available
+VS0434,Female,32,,Kakuma Health Center,Malaria,2025-06-08,Out of Stock
+VS0435,Female,46,Kalobeyei,Kalobeyei Clinic,Check-up,2025-06-25,Out of Stock
+VS0436,Female,16,Kakuma 2,UNHCR Mobile Unit,Wound,,Available
+VS0437,Female,,Kakuma 2,UNHCR Mobile Unit,Respiratory Infection,2025-06-27,Out of Stock
+VS0438,Female,37,Kalobeyei,UNHCR Mobile Unit,Malaria,2025-06-06,Available
+VS0439,Male,54,Kalobeyei,UNHCR Mobile Unit,,2025-07-01,Available
+VS0440,Male,14,Kalobeyei,Kakuma Health Center,Wound,2025-06-06,Out of Stock
+VS0441,Male,55,Kakuma 2,UNHCR Mobile Unit,Diarrhea,2025-06-24,Out of Stock
+VS0442,Female,48,Kalobeyei,Kalobeyei Clinic,Malaria,2025-06-28,
+VS0443,Male,7,Kalobeyei,Kakuma Health Center,Cough,2025-06-21,Out of Stock
+VS0444,Female,7,Kakuma 4,UNHCR Mobile Unit,Wound,2025-06-30,Shortage
+VS0445,Female,33,Kakuma 1,Kakuma Health Center,Malaria,,Out of Stock
+VS0446,Male,23,Kakuma 3,Kalobeyei Clinic,,2025-06-28,Available
+VS0447,Male,19,Kakuma 1,,Maternity,2025-06-03,Out of Stock
+VS0448,Female,19,,Kalobeyei Clinic,Cough,2025-06-13,Available
+VS0449,Male,36,Kakuma 3,UNHCR Mobile Unit,Skin Infection,2025-06-22,Available
+VS0450,Female,29,Kalobeyei,UNHCR Mobile Unit,Skin Infection,2025-06-02,Available
+VS0451,Female,60,Kakuma 4,UNHCR Mobile Unit,Maternity,2025-06-16,Shortage
+VS0452,Female,2,Kalobeyei,UNHCR Mobile Unit,Skin Infection,2025-06-22,Out of Stock
+VS0453,Female,1,Kakuma 2,UNHCR Mobile Unit,Maternity,2025-06-29,Available
+VS0454,Female,47,Kakuma 4,Kakuma Health Center,Malaria,2025-06-06,Available
+VS0455,,,Kakuma 2,UNHCR Mobile Unit,Cough,2025-06-08,Shortage
+VS0456,Male,20,Kakuma 4,UNHCR Mobile Unit,Cough,2025-06-23,Out of Stock
+VS0457,Female,11,Kakuma 4,Kakuma Health Center,Diarrhea,2025-06-08,Out of Stock
+VS0458,Female,2,Kakuma 2,Kakuma Health Center,Maternity,2025-06-30,Shortage
+VS0459,Male,67,Kakuma 3,Kakuma Health Center,Cough,2025-06-25,Shortage
+VS0460,Male,,Kakuma 1,Kakuma Health Center,Diarrhea,2025-06-06,Out of Stock
+VS0461,Female,20,Kalobeyei,Kakuma Health Center,Wound,,Shortage
+VS0462,Male,5,Kakuma 4,Kakuma Health Center,Diarrhea,2025-06-03,Out of Stock
+VS0463,Female,37,Kalobeyei,UNHCR Mobile Unit,Check-up,2025-06-10,Out of Stock
+VS0464,Male,38,Kakuma 2,UNHCR Mobile Unit,Respiratory Infection,2025-06-03,Available
+VS0465,Female,,Kalobeyei,Kalobeyei Clinic,Malaria,2025-06-27,Available
+VS0466,Male,53,Kakuma 2,UNHCR Mobile Unit,Wound,2025-06-12,Out of Stock
+VS0467,Female,44,Kalobeyei,UNHCR Mobile Unit,Respiratory Infection,2025-06-17,Out of Stock
+VS0468,,24,Kakuma 1,Kakuma Health Center,Respiratory Infection,2025-06-27,Out of Stock
+VS0469,Male,30,Kakuma 1,Kakuma Health Center,Wound,2025-07-01,Out of Stock
+VS0470,Female,59,Kakuma 1,UNHCR Mobile Unit,Check-up,2025-06-29,Out of Stock
+VS0471,Male,14,Kakuma 1,Kalobeyei Clinic,Diarrhea,2025-07-01,
+VS0472,Female,9,Kakuma 1,Kakuma Health Center,Malaria,2025-06-05,Shortage
+VS0473,,40,Kakuma 1,UNHCR Mobile Unit,Diarrhea,2025-06-30,Out of Stock
+VS0474,Female,66,Kakuma 2,UNHCR Mobile Unit,Cough,2025-06-20,Shortage
+VS0475,Male,25,Kakuma 4,Kalobeyei Clinic,Diarrhea,2025-06-25,Shortage
+VS0476,Female,22,Kalobeyei,Kalobeyei Clinic,Skin Infection,2025-07-01,Out of Stock
+VS0477,Male,4,,Kakuma Health Center,Wound,2025-06-09,Out of Stock
+VS0478,Female,26,,Kalobeyei Clinic,,2025-07-01,Shortage
+VS0479,Male,58,Kakuma 2,UNHCR Mobile Unit,Diarrhea,2025-06-30,Shortage
+VS0480,Female,29,Kakuma 2,,Malaria,2025-06-21,Out of Stock
+VS0481,Female,37,Kakuma 4,Kalobeyei Clinic,Malaria,2025-06-26,Out of Stock
+VS0482,Female,18,Kalobeyei,Kalobeyei Clinic,Cough,2025-06-20,Shortage
+VS0483,Male,42,Kakuma 4,,Cough,2025-06-07,Shortage
+VS0484,Female,41,Kakuma 3,Kalobeyei Clinic,Wound,2025-07-01,Shortage
+VS0485,Male,38,Kakuma 2,Kakuma Health Center,Check-up,2025-06-22,Available
+VS0486,Female,34,Kakuma 3,Kalobeyei Clinic,Skin Infection,2025-06-04,Shortage
+VS0487,Male,17,Kakuma 1,Kakuma Health Center,Respiratory Infection,2025-06-13,Available
+VS0488,Female,37,Kakuma 1,UNHCR Mobile Unit,Malaria,2025-06-13,Out of Stock
+VS0489,Male,25,Kakuma 4,Kalobeyei Clinic,Check-up,2025-07-01,Out of Stock
+VS0490,Male,,Kalobeyei,Kakuma Health Center,Respiratory Infection,2025-06-10,
+VS0491,Female,57,,Kalobeyei Clinic,,2025-06-18,Out of Stock
+VS0492,Male,31,Kalobeyei,UNHCR Mobile Unit,Skin Infection,2025-06-17,Out of Stock
+VS0493,Male,6,,UNHCR Mobile Unit,Wound,,
+VS0494,Female,40,Kakuma 1,,Respiratory Infection,2025-06-20,
+VS0495,Male,12,Kalobeyei,Kalobeyei Clinic,Skin Infection,2025-06-13,Available
+VS0496,Male,53,Kalobeyei,Kalobeyei Clinic,Respiratory Infection,2025-06-17,Available
+VS0497,Male,10,Kakuma 1,Kakuma Health Center,Malaria,2025-06-22,Shortage
+VS0498,Female,45,Kakuma 3,UNHCR Mobile Unit,Malaria,2025-06-04,Shortage
+VS0499,Male,17,Kakuma 1,Kalobeyei Clinic,Maternity,2025-06-01,
+VS0500,Female,26,,,Check-up,2025-06-01,
+VS0501,Male,62,Kakuma 3,UNHCR Mobile Unit,Diarrhea,2025-06-15,Out of Stock
+VS0502,Male,46,Kakuma 3,Kakuma Health Center,Skin Infection,2025-06-13,Available
+VS0503,Male,64,Kakuma 1,Kakuma Health Center,Cough,2025-06-17,Available
+VS0504,Female,2,Kalobeyei,Kakuma Health Center,Skin Infection,2025-06-24,Shortage
+VS0505,Male,,Kakuma 4,Kakuma Health Center,Diarrhea,2025-06-26,Available
+VS0506,Male,65,Kalobeyei,UNHCR Mobile Unit,Check-up,,Available
+VS0507,Female,51,Kakuma 2,Kakuma Health Center,Cough,2025-06-18,Available
+VS0508,Male,53,Kakuma 4,Kakuma Health Center,Diarrhea,2025-06-27,Available
+VS0509,Female,36,Kakuma 3,Kakuma Health Center,Maternity,2025-06-13,Available
+VS0510,Female,26,Kakuma 4,Kakuma Health Center,Cough,2025-06-23,Shortage
+VS0511,Male,29,Kakuma 3,UNHCR Mobile Unit,Malaria,2025-06-14,Shortage
+VS0512,Female,21,Kakuma 3,Kakuma Health Center,Diarrhea,2025-06-08,Available
+VS0513,Male,11,Kakuma 4,UNHCR Mobile Unit,Skin Infection,2025-06-08,Shortage
+VS0514,Female,40,Kakuma 3,Kalobeyei Clinic,Cough,,Out of Stock
+VS0515,Female,11,,UNHCR Mobile Unit,Maternity,,Available
+VS0516,,36,Kakuma 2,UNHCR Mobile Unit,Skin Infection,2025-06-15,Out of Stock
+VS0517,Female,59,Kalobeyei,Kakuma Health Center,Respiratory Infection,2025-06-27,Shortage
+VS0518,Female,39,Kalobeyei,Kalobeyei Clinic,Cough,2025-06-13,Shortage
+VS0519,Female,54,Kakuma 2,,Cough,2025-06-07,Out of Stock
+VS0520,Female,55,Kakuma 4,Kalobeyei Clinic,Maternity,2025-06-05,Shortage
+VS0521,Female,24,Kakuma 1,Kalobeyei Clinic,Respiratory Infection,2025-06-17,Available
+VS0522,Male,22,Kakuma 1,UNHCR Mobile Unit,Diarrhea,2025-06-28,Out of Stock
+VS0523,Female,69,Kakuma 1,,Wound,2025-06-25,Available
+VS0524,Male,56,Kakuma 2,,Diarrhea,2025-06-29,Out of Stock
+VS0525,Female,33,Kakuma 2,UNHCR Mobile Unit,Respiratory Infection,2025-06-16,Shortage
+VS0526,,36,Kakuma 3,UNHCR Mobile Unit,,2025-06-23,Out of Stock
+VS0527,Male,20,Kakuma 1,Kalobeyei Clinic,,,Out of Stock
+VS0528,Female,62,Kakuma 4,Kakuma Health Center,Maternity,2025-06-22,Available
+VS0529,Female,26,Kakuma 4,,Diarrhea,2025-06-18,
+VS0530,Female,66,Kakuma 1,,Cough,2025-07-01,Available
+VS0531,Male,40,Kakuma 1,Kakuma Health Center,Maternity,2025-06-17,Shortage
+VS0532,Female,17,,Kakuma Health Center,Malaria,2025-06-30,Available
+VS0533,,1,Kakuma 2,UNHCR Mobile Unit,Respiratory Infection,2025-06-07,Out of Stock
+VS0534,Male,61,Kakuma 2,UNHCR Mobile Unit,,2025-06-13,
+VS0535,Male,43,Kakuma 2,Kalobeyei Clinic,Diarrhea,,Shortage
+VS0536,Female,42,Kalobeyei,,,2025-06-29,Shortage
+VS0537,Female,,Kakuma 4,Kakuma Health Center,Skin Infection,2025-06-14,Out of Stock
+VS0538,Male,,Kakuma 4,UNHCR Mobile Unit,Diarrhea,2025-06-30,Shortage
+VS0539,Male,35,Kakuma 3,Kalobeyei Clinic,Maternity,2025-06-18,Available
+VS0540,Female,3,Kakuma 2,Kalobeyei Clinic,Cough,2025-06-13,Out of Stock
+VS0541,,,Kalobeyei,Kalobeyei Clinic,Malaria,2025-06-11,Shortage
+VS0542,Female,51,Kalobeyei,Kalobeyei Clinic,Malaria,2025-06-21,Shortage
+VS0543,Male,12,Kakuma 4,Kalobeyei Clinic,Check-up,2025-06-30,
+VS0544,Female,19,Kakuma 2,Kalobeyei Clinic,Maternity,,Available
+VS0545,,44,Kakuma 3,Kakuma Health Center,Diarrhea,2025-06-16,Out of Stock
+VS0546,Female,59,Kakuma 2,UNHCR Mobile Unit,Malaria,2025-06-23,Shortage
+VS0547,Male,49,Kakuma 1,UNHCR Mobile Unit,Respiratory Infection,2025-06-17,Available
+VS0548,Female,61,Kakuma 2,Kalobeyei Clinic,Malaria,2025-06-08,Out of Stock
+VS0549,Female,17,,UNHCR Mobile Unit,Wound,2025-06-19,Shortage
+VS0550,Male,57,Kakuma 1,UNHCR Mobile Unit,Wound,,Shortage
+VS0551,Male,55,Kakuma 3,UNHCR Mobile Unit,Malaria,2025-06-15,Out of Stock
+VS0552,,47,Kakuma 4,Kalobeyei Clinic,Maternity,2025-06-09,Out of Stock
+VS0553,Male,12,Kakuma 2,Kalobeyei Clinic,Check-up,2025-06-20,Available
+VS0554,Female,62,Kakuma 1,UNHCR Mobile Unit,Malaria,2025-06-10,Shortage
+VS0555,,8,Kakuma 2,UNHCR Mobile Unit,Cough,,
+VS0556,Female,21,Kakuma 4,Kalobeyei Clinic,Skin Infection,,Shortage
+VS0557,Female,25,Kakuma 4,Kakuma Health Center,Diarrhea,2025-06-21,Out of Stock
+VS0558,Female,12,Kalobeyei,UNHCR Mobile Unit,Check-up,2025-06-23,Available
+VS0559,Female,15,Kakuma 4,,Cough,2025-06-20,Shortage
+VS0560,Female,59,Kakuma 3,UNHCR Mobile Unit,Check-up,2025-06-30,Out of Stock
+VS0561,Female,26,Kakuma 1,Kakuma Health Center,Cough,2025-06-01,Shortage
+VS0562,Male,26,Kalobeyei,Kakuma Health Center,Diarrhea,2025-06-25,Available
+VS0563,Male,47,Kakuma 3,Kakuma Health Center,Diarrhea,2025-06-20,Shortage
+VS0564,Male,32,Kakuma 2,Kalobeyei Clinic,Wound,2025-06-09,
+VS0565,Female,10,Kakuma 1,Kakuma Health Center,Maternity,2025-06-22,Available
+VS0566,Female,16,Kakuma 4,Kakuma Health Center,Cough,2025-06-15,Shortage
+VS0567,Female,17,Kakuma 1,Kakuma Health Center,Skin Infection,2025-06-01,
+VS0568,Female,23,Kakuma 2,UNHCR Mobile Unit,Wound,2025-06-12,Available
+VS0569,Male,26,,Kakuma Health Center,Cough,2025-06-03,
+VS0570,Male,7,,UNHCR Mobile Unit,Wound,2025-06-11,Available
+VS0571,Female,,Kalobeyei,Kakuma Health Center,Diarrhea,2025-06-02,Shortage
+VS0572,Male,,,Kakuma Health Center,Check-up,2025-06-16,Shortage
+VS0573,Male,9,Kakuma 3,Kalobeyei Clinic,Respiratory Infection,2025-06-09,Out of Stock
+VS0574,Female,48,Kakuma 3,UNHCR Mobile Unit,Wound,2025-06-15,Available
+VS0575,Male,59,Kakuma 1,Kakuma Health Center,Cough,2025-06-12,Available
+VS0576,Female,39,Kakuma 4,UNHCR Mobile Unit,Cough,2025-06-01,Available
+VS0577,,,Kalobeyei,UNHCR Mobile Unit,Respiratory Infection,2025-06-13,
+VS0578,Female,59,Kalobeyei,Kalobeyei Clinic,Maternity,2025-06-14,Available
+VS0579,,17,,Kalobeyei Clinic,Skin Infection,,Out of Stock
+VS0580,,14,Kakuma 2,Kalobeyei Clinic,Diarrhea,2025-06-25,Shortage
+VS0581,Female,31,Kalobeyei,Kalobeyei Clinic,Cough,2025-06-08,Shortage
+VS0582,Male,24,Kalobeyei,Kalobeyei Clinic,,2025-06-08,Available
+VS0583,Female,,Kakuma 4,Kalobeyei Clinic,Check-up,2025-06-27,Out of Stock
+VS0584,Female,45,Kakuma 3,Kalobeyei Clinic,Wound,2025-06-30,Shortage
+VS0585,Female,3,Kakuma 2,Kalobeyei Clinic,,2025-06-12,Shortage
+VS0586,Male,37,Kakuma 3,Kakuma Health Center,Skin Infection,2025-06-01,Available
+VS0587,Female,43,,UNHCR Mobile Unit,Respiratory Infection,2025-06-11,Available
+VS0588,Male,40,Kalobeyei,Kalobeyei Clinic,,2025-06-08,Out of Stock
+VS0589,,55,Kakuma 3,Kalobeyei Clinic,Diarrhea,2025-06-10,Available
+VS0590,,39,Kalobeyei,,Maternity,2025-06-30,Out of Stock
+VS0591,Male,15,Kalobeyei,Kakuma Health Center,Skin Infection,2025-06-19,Shortage
+VS0592,Female,4,Kakuma 1,UNHCR Mobile Unit,Wound,,Out of Stock
+VS0593,Male,25,,UNHCR Mobile Unit,Wound,2025-06-07,Out of Stock
+VS0594,Female,13,,Kalobeyei Clinic,Respiratory Infection,2025-06-11,Out of Stock
+VS0595,Female,33,,,Malaria,2025-07-01,Shortage
+VS0596,Female,,Kakuma 4,UNHCR Mobile Unit,Respiratory Infection,2025-06-17,Available
+VS0597,Male,,,Kalobeyei Clinic,Diarrhea,2025-06-01,Shortage
+VS0598,Male,66,Kalobeyei,Kalobeyei Clinic,Maternity,2025-06-26,Available
+VS0599,Female,55,Kakuma 2,Kalobeyei Clinic,Maternity,2025-06-29,Out of Stock
+VS0600,,42,Kakuma 2,Kalobeyei Clinic,Cough,,Out of Stock
+VS0601,Male,34,Kakuma 1,UNHCR Mobile Unit,Malaria,,Out of Stock
+VS0602,Female,30,Kakuma 4,UNHCR Mobile Unit,,2025-06-08,Out of Stock
+VS0603,Female,13,Kalobeyei,Kakuma Health Center,Maternity,2025-06-23,Out of Stock
+VS0604,Female,13,Kakuma 3,Kakuma Health Center,Maternity,2025-06-24,Available
+VS0605,Male,18,Kakuma 1,,Check-up,2025-06-06,Available
+VS0606,Male,32,Kakuma 4,Kakuma Health Center,Skin Infection,2025-06-22,Out of Stock
+VS0607,Male,,,UNHCR Mobile Unit,Check-up,2025-06-18,Shortage
+VS0608,Female,46,Kakuma 2,,Check-up,2025-06-06,Shortage
+VS0609,Female,29,Kakuma 2,Kalobeyei Clinic,Malaria,,Out of Stock
+VS0610,Female,62,Kakuma 3,,Cough,2025-06-13,Available
+VS0611,Male,62,Kakuma 1,,Wound,,Shortage
+VS0612,Female,57,Kakuma 2,Kalobeyei Clinic,Check-up,2025-06-22,Shortage
+VS0613,Female,16,Kalobeyei,Kalobeyei Clinic,Cough,,Shortage
+VS0614,Female,56,Kakuma 3,Kalobeyei Clinic,Respiratory Infection,2025-06-09,Out of Stock
+VS0615,Female,10,Kakuma 3,Kakuma Health Center,Diarrhea,2025-06-17,Shortage
+VS0616,Male,30,Kakuma 2,UNHCR Mobile Unit,Check-up,,Shortage
+VS0617,Male,25,Kakuma 1,Kalobeyei Clinic,Respiratory Infection,2025-06-19,Shortage
+VS0618,Female,5,Kalobeyei,,Wound,2025-06-11,Shortage
+VS0619,Male,65,Kakuma 1,Kalobeyei Clinic,Diarrhea,,Available
+VS0620,Male,49,Kakuma 4,Kakuma Health Center,Diarrhea,2025-06-17,Out of Stock
+VS0621,Female,3,,Kakuma Health Center,Wound,2025-06-21,Out of Stock
+VS0622,Female,45,Kakuma 2,Kakuma Health Center,,2025-06-19,Available
+VS0623,Male,14,,UNHCR Mobile Unit,Malaria,2025-06-02,Available
+VS0624,Female,30,Kakuma 2,Kakuma Health Center,Wound,2025-07-01,Out of Stock
+VS0625,Male,68,Kakuma 4,Kakuma Health Center,Wound,,Shortage
+VS0626,Female,18,Kakuma 1,UNHCR Mobile Unit,Wound,2025-06-19,Shortage
+VS0627,Male,62,Kakuma 1,UNHCR Mobile Unit,,2025-06-07,Out of Stock
+VS0628,Female,37,Kakuma 2,Kakuma Health Center,Skin Infection,2025-06-28,Shortage
+VS0629,,25,Kalobeyei,UNHCR Mobile Unit,,2025-06-27,Available
+VS0630,Male,48,Kakuma 1,Kalobeyei Clinic,Respiratory Infection,2025-06-17,Shortage
+VS0631,Male,65,,,Malaria,2025-06-06,Shortage
+VS0632,Female,53,Kakuma 3,UNHCR Mobile Unit,Check-up,2025-06-19,Shortage
+VS0633,Male,15,Kakuma 3,UNHCR Mobile Unit,,2025-06-24,Out of Stock
+VS0634,Male,49,Kakuma 3,Kakuma Health Center,Respiratory Infection,,Available
+VS0635,Female,68,Kalobeyei,UNHCR Mobile Unit,Cough,2025-06-28,Shortage
+VS0636,Female,12,Kakuma 2,Kakuma Health Center,,2025-06-02,Out of Stock
+VS0637,Male,59,Kakuma 4,Kalobeyei Clinic,Skin Infection,2025-06-06,Shortage
+VS0638,Male,37,Kalobeyei,UNHCR Mobile Unit,Malaria,2025-06-23,Available
+VS0639,,61,Kakuma 4,Kakuma Health Center,Check-up,2025-06-05,Shortage
+VS0640,Female,,Kakuma 4,,,2025-06-19,Available
+VS0641,Female,39,Kakuma 2,Kalobeyei Clinic,Maternity,2025-06-20,
+VS0642,Female,56,Kakuma 3,,,2025-06-04,Available
+VS0643,Female,63,Kakuma 2,Kalobeyei Clinic,Respiratory Infection,2025-06-22,Shortage
+VS0644,Male,46,Kalobeyei,Kakuma Health Center,Skin Infection,2025-06-26,Available
+VS0645,Female,11,Kalobeyei,Kakuma Health Center,Check-up,2025-06-17,Shortage
+VS0646,,62,,UNHCR Mobile Unit,,2025-06-11,Shortage
+VS0647,,25,,Kakuma Health Center,Maternity,2025-06-04,
+VS0648,Male,52,Kakuma 4,UNHCR Mobile Unit,Cough,2025-06-26,Out of Stock
+VS0649,Female,4,Kakuma 4,,Malaria,2025-06-13,Available
+VS0650,Male,,Kakuma 1,UNHCR Mobile Unit,Cough,2025-06-20,Shortage
+VS0651,Male,20,Kalobeyei,UNHCR Mobile Unit,Cough,2025-06-26,Available
+VS0652,Female,63,Kakuma 4,Kakuma Health Center,Respiratory Infection,2025-06-17,Out of Stock
+VS0653,Male,54,Kakuma 1,Kakuma Health Center,Skin Infection,2025-06-09,Available
+VS0654,Male,57,Kakuma 4,UNHCR Mobile Unit,,2025-06-04,
+VS0655,Female,41,Kalobeyei,Kakuma Health Center,,2025-06-23,Out of Stock
+VS0656,Male,,Kakuma 3,Kakuma Health Center,Check-up,2025-06-28,Shortage
+VS0657,Male,6,Kalobeyei,Kakuma Health Center,Check-up,2025-06-14,Available
+VS0658,Male,5,Kakuma 2,UNHCR Mobile Unit,Malaria,2025-06-19,Out of Stock
+VS0659,Female,5,Kakuma 4,Kakuma Health Center,Maternity,,Shortage
+VS0660,Female,54,Kakuma 4,UNHCR Mobile Unit,,2025-06-28,Out of Stock
+VS0661,Female,,,Kakuma Health Center,Check-up,2025-06-03,Available
+VS0662,Male,49,Kakuma 2,Kalobeyei Clinic,Diarrhea,2025-06-14,Shortage
+VS0663,Male,9,Kakuma 3,Kakuma Health Center,Respiratory Infection,2025-06-08,Shortage
+VS0664,Female,20,Kakuma 4,Kakuma Health Center,,2025-06-24,Out of Stock
+VS0665,Male,61,Kakuma 4,UNHCR Mobile Unit,Malaria,2025-06-27,Out of Stock
+VS0666,Male,35,Kakuma 3,UNHCR Mobile Unit,Maternity,2025-06-28,Out of Stock
+VS0667,Female,50,Kakuma 1,Kakuma Health Center,Check-up,2025-06-01,
+VS0668,Female,62,Kakuma 3,Kalobeyei Clinic,Cough,2025-06-10,Shortage
+VS0669,Male,17,Kalobeyei,Kakuma Health Center,Respiratory Infection,2025-06-18,Available
+VS0670,Male,3,Kakuma 4,Kakuma Health Center,Malaria,2025-06-16,Shortage
+VS0671,Male,32,Kakuma 2,,Wound,2025-06-08,Available
+VS0672,Female,13,Kalobeyei,UNHCR Mobile Unit,Respiratory Infection,,
+VS0673,Female,68,Kakuma 4,Kakuma Health Center,Skin Infection,2025-07-01,Out of Stock
+VS0674,Female,14,Kakuma 3,UNHCR Mobile Unit,,2025-06-12,Shortage
+VS0675,Female,11,Kalobeyei,UNHCR Mobile Unit,Maternity,2025-06-08,Out of Stock
+VS0676,,56,,Kalobeyei Clinic,,2025-06-24,Out of Stock
+VS0677,Female,67,Kakuma 1,Kalobeyei Clinic,Respiratory Infection,2025-06-16,Shortage
+VS0678,Female,29,Kakuma 1,UNHCR Mobile Unit,Maternity,2025-06-18,Available
+VS0679,Female,9,Kakuma 2,Kakuma Health Center,Malaria,2025-06-04,Shortage
+VS0680,Female,67,Kakuma 4,UNHCR Mobile Unit,Check-up,2025-06-06,Available
+VS0681,Female,25,Kakuma 1,Kakuma Health Center,Respiratory Infection,2025-06-12,Shortage
+VS0682,Male,42,Kakuma 3,Kakuma Health Center,,2025-06-27,Shortage
+VS0683,Male,9,Kakuma 4,Kalobeyei Clinic,Respiratory Infection,2025-06-09,Out of Stock
+VS0684,Female,40,Kakuma 3,Kakuma Health Center,Check-up,2025-06-15,Shortage
+VS0685,Male,25,Kakuma 3,Kakuma Health Center,Skin Infection,2025-06-16,
+VS0686,Female,,Kakuma 1,UNHCR Mobile Unit,Maternity,2025-06-24,Available
+VS0687,Female,11,Kakuma 4,Kalobeyei Clinic,Wound,2025-06-12,Out of Stock
+VS0688,Male,,Kalobeyei,Kakuma Health Center,Respiratory Infection,,
+VS0689,,38,Kakuma 1,Kakuma Health Center,,2025-06-24,Available
+VS0690,Female,5,Kakuma 1,Kalobeyei Clinic,Respiratory Infection,2025-06-23,Out of Stock
+VS0691,Female,48,Kakuma 4,UNHCR Mobile Unit,Check-up,2025-06-14,Out of Stock
+VS0692,Female,18,Kakuma 4,Kalobeyei Clinic,Malaria,2025-06-13,
+VS0693,Male,37,Kakuma 3,Kalobeyei Clinic,Respiratory Infection,2025-06-25,Shortage
+VS0694,,60,Kakuma 4,Kakuma Health Center,Skin Infection,2025-07-01,Out of Stock
+VS0695,Female,48,Kakuma 3,Kakuma Health Center,Check-up,2025-06-02,Out of Stock
+VS0696,Female,,Kakuma 1,UNHCR Mobile Unit,Cough,2025-06-03,Out of Stock
+VS0697,Male,69,Kakuma 2,Kakuma Health Center,Check-up,2025-06-26,
+VS0698,Female,40,Kalobeyei,Kakuma Health Center,Maternity,2025-06-24,Available
+VS0699,Female,45,Kakuma 1,Kalobeyei Clinic,Wound,,Shortage
+VS0700,Male,62,Kakuma 4,Kakuma Health Center,Cough,2025-06-22,Available
+VS0701,Female,58,Kalobeyei,UNHCR Mobile Unit,Maternity,2025-06-10,Shortage
+VS0702,Female,67,Kakuma 2,Kalobeyei Clinic,Maternity,2025-06-09,Available
+VS0703,Male,56,Kakuma 2,UNHCR Mobile Unit,Maternity,2025-06-26,Out of Stock
+VS0704,Female,40,Kakuma 3,Kalobeyei Clinic,Malaria,2025-06-20,Available
+VS0705,Male,40,Kalobeyei,Kakuma Health Center,Maternity,2025-06-08,
+VS0706,Male,33,Kakuma 3,Kalobeyei Clinic,Malaria,2025-06-10,Available
+VS0707,Female,6,Kakuma 1,Kalobeyei Clinic,Maternity,2025-06-19,
+VS0708,Female,19,Kalobeyei,Kakuma Health Center,Diarrhea,2025-06-03,Shortage
+VS0709,Female,40,Kakuma 1,Kakuma Health Center,Skin Infection,2025-06-24,Out of Stock
+VS0710,Female,59,Kakuma 3,UNHCR Mobile Unit,Cough,,
+VS0711,Male,59,Kalobeyei,UNHCR Mobile Unit,Diarrhea,2025-06-03,Shortage
+VS0712,Female,48,Kakuma 3,Kakuma Health Center,,2025-06-26,Out of Stock
+VS0713,Male,41,,Kakuma Health Center,Cough,2025-06-27,Out of Stock
+VS0714,,13,Kakuma 3,Kakuma Health Center,Cough,2025-06-16,Available
+VS0715,Female,45,Kakuma 2,Kalobeyei Clinic,Respiratory Infection,,Out of Stock
+VS0716,Female,53,Kakuma 3,Kalobeyei Clinic,Wound,2025-06-15,Out of Stock
+VS0717,Male,,Kakuma 2,Kalobeyei Clinic,Diarrhea,2025-06-03,
+VS0718,Female,63,Kakuma 3,Kakuma Health Center,Wound,2025-06-12,Out of Stock
+VS0719,Female,,,,Cough,2025-06-09,Shortage
+VS0720,Female,38,Kalobeyei,Kakuma Health Center,Malaria,2025-06-21,Available
+VS0721,,60,,,Cough,,Out of Stock
+VS0722,Male,7,Kakuma 4,Kalobeyei Clinic,Wound,2025-06-26,Out of Stock
+VS0723,Female,5,Kakuma 1,Kakuma Health Center,Diarrhea,2025-06-15,Shortage
+VS0724,Male,,Kalobeyei,Kakuma Health Center,Maternity,,Out of Stock
+VS0725,Male,58,,Kalobeyei Clinic,Respiratory Infection,2025-06-23,Shortage
+VS0726,Male,31,Kalobeyei,Kalobeyei Clinic,Respiratory Infection,2025-07-01,Available
+VS0727,Male,23,Kakuma 4,Kalobeyei Clinic,Respiratory Infection,2025-06-18,Available
+VS0728,Male,42,Kakuma 2,Kakuma Health Center,Maternity,2025-06-20,Out of Stock
+VS0729,Male,10,Kakuma 4,Kalobeyei Clinic,Respiratory Infection,2025-06-12,Out of Stock
+VS0730,Female,32,Kakuma 2,Kalobeyei Clinic,Diarrhea,2025-06-23,Out of Stock
+VS0731,Male,53,Kakuma 3,,Maternity,2025-06-04,Shortage
+VS0732,Male,30,Kakuma 1,,Respiratory Infection,2025-06-23,Out of Stock
+VS0733,Male,39,Kakuma 1,UNHCR Mobile Unit,Maternity,,
+VS0734,Female,31,Kakuma 4,UNHCR Mobile Unit,Wound,2025-06-23,Available
+VS0735,Female,2,Kakuma 1,Kalobeyei Clinic,Skin Infection,,Out of Stock
+VS0736,Male,12,Kakuma 4,Kakuma Health Center,Skin Infection,2025-06-01,Available
+VS0737,Female,39,Kakuma 4,Kalobeyei Clinic,,2025-06-22,Out of Stock
+VS0738,Male,66,Kakuma 4,,Check-up,2025-06-25,Available
+VS0739,Male,13,Kakuma 1,UNHCR Mobile Unit,Malaria,2025-06-02,Out of Stock
+VS0740,Female,46,Kakuma 4,Kakuma Health Center,Respiratory Infection,2025-06-30,Available
+VS0741,Male,,Kakuma 1,Kalobeyei Clinic,Malaria,2025-06-03,Shortage
+VS0742,,17,Kakuma 4,Kalobeyei Clinic,Maternity,2025-06-26,Available
+VS0743,,60,Kalobeyei,Kalobeyei Clinic,Malaria,2025-06-21,Available
+VS0744,Male,,Kakuma 4,Kakuma Health Center,Diarrhea,2025-06-25,Available
+VS0745,Male,35,,UNHCR Mobile Unit,Diarrhea,2025-06-20,Out of Stock
+VS0746,Female,30,Kakuma 4,UNHCR Mobile Unit,Cough,2025-06-17,
+VS0747,Male,63,Kakuma 3,,Skin Infection,2025-06-20,Out of Stock
+VS0748,Male,28,Kakuma 4,,Respiratory Infection,2025-06-22,Shortage
+VS0749,Male,60,Kakuma 2,UNHCR Mobile Unit,Cough,2025-06-21,Shortage
+VS0750,Female,37,Kakuma 2,Kalobeyei Clinic,,2025-06-30,Available
+VS0751,,22,Kakuma 1,Kakuma Health Center,Check-up,2025-06-29,Shortage
+VS0752,Male,68,Kalobeyei,,Cough,2025-06-01,
+VS0753,Female,20,Kakuma 4,UNHCR Mobile Unit,Cough,2025-06-20,Available
+VS0754,Female,68,Kakuma 1,UNHCR Mobile Unit,Diarrhea,2025-06-06,Available
+VS0755,Female,,Kalobeyei,,Check-up,2025-06-29,
+VS0756,,17,Kakuma 4,Kakuma Health Center,Maternity,2025-06-15,Out of Stock
+VS0757,Female,12,Kakuma 3,Kalobeyei Clinic,Malaria,2025-06-26,Shortage
+VS0758,Male,22,Kakuma 4,Kakuma Health Center,Cough,2025-06-26,Available
+VS0759,Male,17,Kakuma 2,Kalobeyei Clinic,Check-up,2025-06-14,Available
+VS0760,Male,10,Kakuma 2,UNHCR Mobile Unit,Skin Infection,2025-06-20,Shortage
+VS0761,,65,Kakuma 3,Kakuma Health Center,Respiratory Infection,2025-06-15,Available
+VS0762,Female,,,Kakuma Health Center,,2025-06-14,Available
+VS0763,Male,50,Kalobeyei,Kakuma Health Center,Skin Infection,2025-06-25,Shortage
+VS0764,,14,Kakuma 4,UNHCR Mobile Unit,Malaria,2025-06-21,Shortage
+VS0765,Male,64,Kakuma 2,Kalobeyei Clinic,Check-up,2025-06-24,Shortage
+VS0766,Male,,Kakuma 1,UNHCR Mobile Unit,Skin Infection,2025-06-25,Available
+VS0767,Male,,Kakuma 3,Kakuma Health Center,Check-up,2025-06-26,Available
+VS0768,Female,36,Kakuma 2,Kalobeyei Clinic,Check-up,2025-06-05,Out of Stock
+VS0769,Female,52,Kakuma 3,UNHCR Mobile Unit,Respiratory Infection,2025-06-06,Out of Stock
+VS0770,Male,7,Kakuma 4,Kakuma Health Center,Skin Infection,2025-06-17,Shortage
+VS0771,,29,Kalobeyei,Kakuma Health Center,Skin Infection,2025-06-11,Out of Stock
+VS0772,Male,,Kakuma 2,,Cough,2025-06-16,Available
+VS0773,,33,Kakuma 2,UNHCR Mobile Unit,Malaria,2025-06-12,Out of Stock
+VS0774,Female,6,Kakuma 4,UNHCR Mobile Unit,,2025-06-15,Available
+VS0775,Female,32,Kakuma 1,Kakuma Health Center,Check-up,2025-06-23,Shortage
+VS0776,Male,51,Kalobeyei,UNHCR Mobile Unit,Check-up,2025-06-04,Shortage
+VS0777,Male,58,Kakuma 2,Kakuma Health Center,Cough,,Available
+VS0778,Female,26,Kalobeyei,UNHCR Mobile Unit,Malaria,2025-06-18,Out of Stock
+VS0779,Female,46,Kakuma 2,Kakuma Health Center,,2025-06-21,Shortage
+VS0780,Male,29,Kalobeyei,Kakuma Health Center,Respiratory Infection,2025-06-28,Shortage
+VS0781,Male,4,Kakuma 3,Kalobeyei Clinic,Cough,2025-06-03,Out of Stock
+VS0782,Male,13,Kakuma 2,UNHCR Mobile Unit,Malaria,2025-06-22,Out of Stock
+VS0783,Female,39,Kalobeyei,UNHCR Mobile Unit,Respiratory Infection,2025-06-08,
+VS0784,Female,15,,Kakuma Health Center,Check-up,2025-06-23,Out of Stock
+VS0785,Female,29,Kakuma 3,Kakuma Health Center,Malaria,2025-06-03,Out of Stock
+VS0786,Male,29,Kakuma 3,,,2025-06-08,Out of Stock
+VS0787,Male,32,Kakuma 1,Kalobeyei Clinic,Maternity,2025-06-18,Available
+VS0788,Female,2,Kalobeyei,Kalobeyei Clinic,Malaria,2025-06-10,Available
+VS0789,Female,47,Kakuma 4,Kakuma Health Center,Diarrhea,2025-06-25,Shortage
+VS0790,Male,22,Kakuma 1,UNHCR Mobile Unit,Malaria,2025-06-20,
+VS0791,Female,27,,,Diarrhea,2025-06-17,Shortage
+VS0792,Female,67,Kakuma 1,Kalobeyei Clinic,Check-up,2025-06-08,Out of Stock
+VS0793,Male,56,Kakuma 1,Kalobeyei Clinic,Diarrhea,2025-06-23,Shortage
+VS0794,Female,21,Kakuma 2,Kakuma Health Center,Respiratory Infection,2025-06-11,Shortage
+VS0795,,47,,,Check-up,2025-06-29,Out of Stock
+VS0796,Male,59,Kakuma 4,Kakuma Health Center,Check-up,2025-06-05,Shortage
+VS0797,Male,6,Kakuma 2,Kalobeyei Clinic,Diarrhea,2025-06-26,Available
+VS0798,,19,Kakuma 1,,Skin Infection,2025-06-13,Available
+VS0799,Male,57,Kakuma 1,UNHCR Mobile Unit,Cough,2025-06-21,Available
+VS0800,Male,,Kakuma 1,Kalobeyei Clinic,Wound,2025-06-23,Available
+VS0801,Male,3,Kalobeyei,Kakuma Health Center,Skin Infection,,
+VS0802,Female,1,Kalobeyei,Kakuma Health Center,Malaria,2025-06-24,
+VS0803,Male,58,Kakuma 2,UNHCR Mobile Unit,Maternity,2025-06-27,Out of Stock
+VS0804,Male,38,Kakuma 4,Kalobeyei Clinic,Wound,2025-06-13,Shortage
+VS0805,,15,Kakuma 2,UNHCR Mobile Unit,Malaria,2025-06-06,Shortage
+VS0806,Female,34,Kakuma 3,Kalobeyei Clinic,Skin Infection,2025-06-29,Shortage
+VS0807,Female,61,Kakuma 1,,,2025-06-05,Out of Stock
+VS0808,Male,35,Kakuma 1,,Malaria,2025-06-09,Available
+VS0809,Female,64,Kakuma 1,Kakuma Health Center,Check-up,2025-06-27,Shortage
+VS0810,Male,25,Kakuma 2,Kalobeyei Clinic,Malaria,2025-06-16,Out of Stock
+VS0811,,24,Kakuma 2,UNHCR Mobile Unit,Maternity,2025-06-02,Out of Stock
+VS0812,,12,Kakuma 1,Kakuma Health Center,Skin Infection,2025-06-01,Out of Stock
+VS0813,Male,18,Kakuma 2,UNHCR Mobile Unit,Malaria,2025-06-08,Available
+VS0814,,15,Kalobeyei,UNHCR Mobile Unit,Diarrhea,,Shortage
+VS0815,Female,27,Kalobeyei,Kakuma Health Center,Wound,2025-06-19,Out of Stock
+VS0816,Male,60,Kakuma 2,Kakuma Health Center,Diarrhea,2025-06-30,Available
+VS0817,Male,46,Kakuma 1,UNHCR Mobile Unit,Maternity,,Out of Stock
+VS0818,,17,,UNHCR Mobile Unit,Malaria,2025-06-28,Out of Stock
+VS0819,Female,53,Kakuma 2,UNHCR Mobile Unit,Respiratory Infection,2025-06-12,Out of Stock
+VS0820,Male,8,,UNHCR Mobile Unit,Maternity,2025-06-12,Out of Stock
+VS0821,,27,Kakuma 3,Kakuma Health Center,,2025-06-07,Out of Stock
+VS0822,Female,46,Kalobeyei,Kakuma Health Center,Diarrhea,2025-06-26,Available
+VS0823,Female,50,Kakuma 4,UNHCR Mobile Unit,Diarrhea,2025-06-13,Shortage
+VS0824,Male,3,Kakuma 4,Kalobeyei Clinic,Cough,2025-06-27,Shortage
+VS0825,Female,64,Kakuma 3,Kalobeyei Clinic,Malaria,2025-06-08,Shortage
+VS0826,Female,44,Kakuma 2,Kakuma Health Center,Check-up,,Shortage
+VS0827,Male,53,Kakuma 3,UNHCR Mobile Unit,Respiratory Infection,2025-06-29,Available
+VS0828,Female,24,Kakuma 3,UNHCR Mobile Unit,Diarrhea,,Available
+VS0829,Male,60,Kakuma 1,Kakuma Health Center,Diarrhea,2025-06-22,Available
+VS0830,,3,Kalobeyei,Kalobeyei Clinic,Check-up,2025-06-28,Out of Stock
+VS0831,Male,20,Kakuma 4,Kalobeyei Clinic,Maternity,2025-06-26,Out of Stock
+VS0832,Male,46,Kakuma 2,Kalobeyei Clinic,Maternity,,Out of Stock
+VS0833,Male,15,Kakuma 4,Kakuma Health Center,Malaria,2025-06-09,
+VS0834,Female,,Kakuma 4,Kalobeyei Clinic,,,Out of Stock
+VS0835,Male,17,Kalobeyei,Kakuma Health Center,Cough,2025-07-01,Shortage
+VS0836,,9,Kakuma 4,Kakuma Health Center,Diarrhea,2025-06-26,Out of Stock
+VS0837,Male,38,Kakuma 4,UNHCR Mobile Unit,Skin Infection,2025-06-21,
+VS0838,Male,,Kakuma 3,Kalobeyei Clinic,Skin Infection,2025-06-24,Out of Stock
+VS0839,Female,60,,Kakuma Health Center,Cough,2025-06-15,Out of Stock
+VS0840,,63,Kakuma 1,Kalobeyei Clinic,Skin Infection,2025-06-02,Available
+VS0841,Male,2,Kakuma 2,Kalobeyei Clinic,Skin Infection,2025-06-23,Out of Stock
+VS0842,Female,11,Kakuma 4,UNHCR Mobile Unit,Maternity,2025-07-01,Out of Stock
+VS0843,Male,64,Kakuma 2,Kalobeyei Clinic,Maternity,2025-06-20,Available
+VS0844,Male,21,Kakuma 1,UNHCR Mobile Unit,Wound,2025-06-25,Shortage
+VS0845,Male,,Kakuma 2,,Respiratory Infection,2025-06-12,Available
+VS0846,Male,64,Kakuma 1,Kalobeyei Clinic,Malaria,2025-06-01,Available
+VS0847,Female,38,,Kakuma Health Center,Skin Infection,2025-06-23,Shortage
+VS0848,Female,32,Kakuma 4,Kalobeyei Clinic,Wound,2025-06-22,Out of Stock
+VS0849,Male,,Kakuma 1,Kakuma Health Center,Respiratory Infection,2025-06-08,Shortage
+VS0850,Female,45,Kakuma 2,Kalobeyei Clinic,Wound,,
+VS0851,Male,33,,Kalobeyei Clinic,Wound,2025-06-15,Out of Stock
+VS0852,Female,41,Kakuma 3,Kalobeyei Clinic,Malaria,2025-06-01,Shortage
+VS0853,Male,8,Kakuma 4,Kalobeyei Clinic,Malaria,2025-06-01,Available
+VS0854,Male,11,Kakuma 1,Kalobeyei Clinic,Check-up,2025-06-25,Shortage
+VS0855,Male,51,Kakuma 3,Kalobeyei Clinic,Cough,2025-07-01,
+VS0856,Male,41,Kakuma 2,Kalobeyei Clinic,Cough,2025-06-10,Shortage
+VS0857,Male,17,Kakuma 3,Kalobeyei Clinic,Check-up,2025-06-22,Shortage
+VS0858,,46,Kakuma 3,Kalobeyei Clinic,Check-up,2025-06-10,Out of Stock
+VS0859,Female,32,Kalobeyei,Kakuma Health Center,Maternity,2025-06-21,Available
+VS0860,Male,54,Kakuma 3,UNHCR Mobile Unit,Respiratory Infection,2025-06-15,
+VS0861,Female,20,Kakuma 3,Kalobeyei Clinic,Wound,2025-06-17,
+VS0862,Male,33,Kakuma 4,UNHCR Mobile Unit,Skin Infection,2025-06-22,Out of Stock
+VS0863,Female,40,Kakuma 2,Kalobeyei Clinic,Check-up,2025-06-06,
+VS0864,Female,32,,Kalobeyei Clinic,Diarrhea,,Available
+VS0865,Female,,Kakuma 4,Kakuma Health Center,Cough,2025-06-13,Shortage
+VS0866,Male,33,Kakuma 1,,,2025-06-16,Available
+VS0867,,,,UNHCR Mobile Unit,Diarrhea,2025-06-08,Available
+VS0868,Female,33,Kalobeyei,Kakuma Health Center,Diarrhea,2025-06-30,Available
+VS0869,Male,26,Kalobeyei,Kakuma Health Center,,2025-06-15,Available
+VS0870,Female,22,Kakuma 1,UNHCR Mobile Unit,Maternity,2025-06-17,Shortage
+VS0871,Male,66,Kakuma 2,Kakuma Health Center,,2025-06-17,Out of Stock
+VS0872,Female,38,,Kalobeyei Clinic,Skin Infection,2025-06-22,
+VS0873,Female,46,Kakuma 4,UNHCR Mobile Unit,Skin Infection,2025-06-26,Out of Stock
+VS0874,Male,15,Kakuma 4,UNHCR Mobile Unit,Diarrhea,2025-06-13,Out of Stock
+VS0875,Female,44,Kakuma 4,,Respiratory Infection,2025-06-17,Out of Stock
+VS0876,Male,,Kakuma 2,Kakuma Health Center,Maternity,2025-06-06,Out of Stock
+VS0877,Female,61,Kakuma 3,UNHCR Mobile Unit,Wound,2025-06-17,
+VS0878,Female,67,Kalobeyei,UNHCR Mobile Unit,Diarrhea,2025-06-16,Available
+VS0879,Male,6,Kakuma 3,,Wound,2025-06-14,Out of Stock
+VS0880,Male,,Kakuma 3,Kalobeyei Clinic,Wound,2025-06-13,Shortage
+VS0881,Male,6,,Kakuma Health Center,Diarrhea,2025-06-06,Out of Stock
+VS0882,Female,32,Kakuma 3,UNHCR Mobile Unit,Cough,2025-06-03,Out of Stock
+VS0883,Male,,Kakuma 1,Kakuma Health Center,Respiratory Infection,2025-06-14,Available
+VS0884,Female,8,,Kakuma Health Center,Diarrhea,2025-06-14,Available
+VS0885,,50,Kakuma 1,Kalobeyei Clinic,Skin Infection,2025-06-15,Available
+VS0886,Male,62,Kalobeyei,UNHCR Mobile Unit,Diarrhea,2025-06-08,
+VS0887,Male,62,,,,2025-06-29,Out of Stock
+VS0888,Female,,Kakuma 3,UNHCR Mobile Unit,Diarrhea,2025-06-15,Out of Stock
+VS0889,Female,4,,Kalobeyei Clinic,Cough,2025-06-22,Available
+VS0890,Male,6,Kakuma 4,Kalobeyei Clinic,,2025-06-29,Shortage
+VS0891,Male,58,Kakuma 3,Kalobeyei Clinic,Skin Infection,2025-06-27,Out of Stock
+VS0892,Male,,Kakuma 1,Kalobeyei Clinic,Malaria,2025-06-13,Out of Stock
+VS0893,Male,26,Kakuma 4,Kalobeyei Clinic,Malaria,,Out of Stock
+VS0894,Male,3,Kakuma 3,UNHCR Mobile Unit,Wound,2025-07-01,Shortage
+VS0895,Female,41,Kakuma 1,Kakuma Health Center,Respiratory Infection,2025-06-21,Out of Stock
+VS0896,,60,Kalobeyei,UNHCR Mobile Unit,Wound,2025-06-24,Shortage
+VS0897,,14,Kalobeyei,Kakuma Health Center,Cough,2025-06-03,Out of Stock
+VS0898,Female,12,Kalobeyei,Kalobeyei Clinic,Check-up,2025-06-28,Shortage
+VS0899,Male,12,Kalobeyei,Kakuma Health Center,,2025-06-06,
+VS0900,Male,,Kakuma 2,UNHCR Mobile Unit,Respiratory Infection,2025-06-05,Available
+VS0901,Male,25,Kakuma 4,UNHCR Mobile Unit,Skin Infection,2025-06-22,Available
+VS0902,Female,45,Kakuma 4,Kakuma Health Center,Malaria,2025-06-26,Available
+VS0903,Female,19,,Kalobeyei Clinic,Wound,2025-06-17,Available
+VS0904,Male,55,Kakuma 3,Kalobeyei Clinic,Skin Infection,2025-06-23,Out of Stock
+VS0905,Male,45,Kakuma 3,UNHCR Mobile Unit,Malaria,2025-06-25,Available
+VS0906,Female,,Kalobeyei,Kakuma Health Center,Cough,2025-06-02,Shortage
+VS0907,Female,53,Kakuma 1,Kalobeyei Clinic,Cough,2025-06-26,Available
+VS0908,Male,55,Kakuma 3,Kalobeyei Clinic,Check-up,2025-06-15,
+VS0909,Male,32,Kakuma 1,UNHCR Mobile Unit,Skin Infection,2025-06-05,Available
+VS0910,Female,51,Kakuma 4,Kalobeyei Clinic,,2025-06-26,Out of Stock
+VS0911,Male,44,,Kakuma Health Center,Maternity,2025-06-20,Available
+VS0912,Male,18,Kakuma 4,UNHCR Mobile Unit,Respiratory Infection,2025-06-06,Shortage
+VS0913,Male,22,,UNHCR Mobile Unit,Skin Infection,,Available
+VS0914,Female,,Kakuma 2,Kakuma Health Center,Cough,2025-06-27,Available
+VS0915,Female,56,Kalobeyei,UNHCR Mobile Unit,Wound,2025-06-18,Available
+VS0916,Female,59,Kakuma 3,,Malaria,2025-06-18,Shortage
+VS0917,Female,3,Kalobeyei,Kalobeyei Clinic,Diarrhea,2025-06-04,Available
+VS0918,,28,Kakuma 4,Kakuma Health Center,Check-up,2025-06-17,Shortage
+VS0919,Female,35,Kalobeyei,Kalobeyei Clinic,Diarrhea,2025-06-25,Shortage
+VS0920,Female,61,,Kakuma Health Center,Skin Infection,2025-06-14,Available
+VS0921,Male,54,Kakuma 4,Kakuma Health Center,Wound,2025-06-14,Shortage
+VS0922,Male,63,Kakuma 2,,Check-up,2025-06-13,Out of Stock
+VS0923,Male,7,Kakuma 3,Kakuma Health Center,Diarrhea,2025-06-07,Available
+VS0924,Male,49,Kakuma 4,Kalobeyei Clinic,Respiratory Infection,2025-06-12,Available
+VS0925,Male,31,Kakuma 4,UNHCR Mobile Unit,Wound,2025-06-23,Shortage
+VS0926,Male,58,Kakuma 1,UNHCR Mobile Unit,Malaria,,
+VS0927,,61,Kakuma 3,,Respiratory Infection,,Available
+VS0928,Female,24,Kakuma 2,,Wound,2025-07-01,Out of Stock
+VS0929,Female,20,Kakuma 4,Kalobeyei Clinic,Maternity,2025-06-11,Shortage
+VS0930,Male,37,Kakuma 4,UNHCR Mobile Unit,Check-up,,Shortage
+VS0931,,4,Kakuma 1,,Cough,2025-06-12,Out of Stock
+VS0932,Female,20,Kalobeyei,Kalobeyei Clinic,,2025-06-03,Out of Stock
+VS0933,,60,Kakuma 2,Kakuma Health Center,Skin Infection,2025-06-17,
+VS0934,Male,,Kakuma 3,UNHCR Mobile Unit,Respiratory Infection,2025-06-03,Out of Stock
+VS0935,Female,,Kakuma 4,Kakuma Health Center,Respiratory Infection,2025-06-19,Available
+VS0936,Male,49,Kakuma 4,Kakuma Health Center,Diarrhea,2025-06-20,Out of Stock
+VS0937,Female,51,Kakuma 2,,Check-up,2025-06-04,Shortage
+VS0938,Male,36,Kalobeyei,Kakuma Health Center,Skin Infection,2025-06-03,Available
+VS0939,Female,66,Kakuma 4,Kakuma Health Center,Cough,,Available
+VS0940,Female,34,Kakuma 2,Kalobeyei Clinic,Wound,2025-06-16,Available
+VS0941,,36,,Kakuma Health Center,Cough,2025-06-12,Out of Stock
+VS0942,Male,6,Kalobeyei,Kalobeyei Clinic,Check-up,2025-06-08,
+VS0943,Female,39,Kakuma 3,UNHCR Mobile Unit,Check-up,2025-06-24,Available
+VS0944,Male,42,Kakuma 4,UNHCR Mobile Unit,,,Available
+VS0945,Male,58,Kakuma 2,Kalobeyei Clinic,Maternity,2025-06-29,Available
+VS0946,Male,12,Kakuma 1,UNHCR Mobile Unit,Cough,2025-06-17,Available
+VS0947,Male,3,Kakuma 3,,Wound,2025-06-07,Shortage
+VS0948,Female,18,,Kakuma Health Center,Cough,2025-06-11,Out of Stock
+VS0949,Female,40,Kakuma 2,Kakuma Health Center,Check-up,2025-06-18,Shortage
+VS0950,Male,21,,UNHCR Mobile Unit,Check-up,2025-06-01,Available
+VS0951,Male,15,Kakuma 1,,Diarrhea,2025-06-03,Shortage
+VS0952,Female,,Kakuma 1,UNHCR Mobile Unit,Maternity,2025-06-04,
+VS0953,Male,8,Kalobeyei,Kakuma Health Center,Skin Infection,,Out of Stock
+VS0954,,42,Kakuma 4,Kalobeyei Clinic,Skin Infection,2025-06-06,Out of Stock
+VS0955,Male,44,Kakuma 3,UNHCR Mobile Unit,Skin Infection,2025-06-26,Out of Stock
+VS0956,,14,Kakuma 3,UNHCR Mobile Unit,Diarrhea,2025-06-14,Available
+VS0957,Female,,Kakuma 3,Kakuma Health Center,,2025-06-05,Shortage
+VS0958,Male,37,Kakuma 1,UNHCR Mobile Unit,Skin Infection,2025-06-16,Out of Stock
+VS0959,Female,69,Kakuma 4,UNHCR Mobile Unit,Check-up,2025-06-15,Available
+VS0960,Male,38,Kalobeyei,Kalobeyei Clinic,Diarrhea,2025-06-15,Available
+VS0961,Male,,Kakuma 2,Kalobeyei Clinic,Cough,2025-06-30,
+VS0962,Male,62,Kakuma 2,Kakuma Health Center,Maternity,2025-06-04,Out of Stock
+VS0963,Female,60,Kakuma 3,Kalobeyei Clinic,Maternity,2025-06-08,Available
+VS0964,Male,14,Kakuma 4,Kakuma Health Center,Wound,2025-06-27,Shortage
+VS0965,Male,,Kakuma 1,,Cough,2025-06-16,Out of Stock
+VS0966,Male,17,Kakuma 4,Kakuma Health Center,Wound,2025-06-28,Shortage
+VS0967,Male,28,Kakuma 4,UNHCR Mobile Unit,Diarrhea,2025-06-16,Shortage
+VS0968,Female,66,,Kalobeyei Clinic,,2025-06-30,Available
+VS0969,Female,35,Kakuma 3,Kakuma Health Center,Skin Infection,2025-06-04,Available
+VS0970,,5,Kakuma 4,,Malaria,2025-06-13,Available
+VS0971,Female,65,Kakuma 2,Kakuma Health Center,Cough,2025-06-26,Shortage
+VS0972,Male,40,Kakuma 1,Kalobeyei Clinic,,2025-06-28,Available
+VS0973,Male,56,Kalobeyei,Kalobeyei Clinic,Cough,2025-06-13,
+VS0974,Male,36,Kakuma 3,Kakuma Health Center,,2025-06-02,Shortage
+VS0975,Female,45,Kakuma 1,UNHCR Mobile Unit,Diarrhea,2025-07-01,
+VS0976,Female,23,Kalobeyei,Kalobeyei Clinic,Cough,2025-06-03,Out of Stock
+VS0977,Female,,Kalobeyei,UNHCR Mobile Unit,Respiratory Infection,2025-06-22,Out of Stock
+VS0978,Female,31,Kakuma 4,UNHCR Mobile Unit,,,Out of Stock
+VS0979,Female,11,Kakuma 4,Kakuma Health Center,Maternity,2025-06-24,Shortage
+VS0980,Female,10,Kakuma 4,,,2025-06-15,Shortage
+VS0981,Female,67,,Kakuma Health Center,Malaria,2025-06-11,Shortage
+VS0982,Female,14,Kakuma 1,,Skin Infection,2025-07-01,Available
+VS0983,Female,10,Kakuma 3,Kakuma Health Center,Maternity,2025-06-09,Shortage
+VS0984,Male,1,Kakuma 4,Kakuma Health Center,,,Available
+VS0985,Female,5,Kalobeyei,Kalobeyei Clinic,Malaria,2025-06-13,Available
+VS0986,Female,20,Kakuma 2,Kalobeyei Clinic,Respiratory Infection,2025-06-02,
+VS0987,,8,Kakuma 3,Kakuma Health Center,Diarrhea,2025-06-08,Out of Stock
+VS0988,Female,43,Kakuma 1,Kakuma Health Center,Maternity,2025-06-07,Out of Stock
+VS0989,Female,1,Kakuma 3,Kakuma Health Center,Diarrhea,2025-06-24,Available
+VS0990,Female,,Kakuma 3,Kakuma Health Center,Maternity,2025-06-12,Available
+VS0991,Female,64,Kakuma 3,UNHCR Mobile Unit,Check-up,2025-06-19,Available
+VS0992,,28,Kakuma 3,UNHCR Mobile Unit,Malaria,2025-06-07,Shortage
+VS0993,Female,37,Kakuma 2,Kakuma Health Center,,2025-06-10,Available
+VS0994,Female,47,Kakuma 4,UNHCR Mobile Unit,Check-up,2025-06-29,Out of Stock
+VS0995,Female,37,Kalobeyei,Kalobeyei Clinic,Skin Infection,,
+VS0996,Male,49,Kakuma 3,UNHCR Mobile Unit,Wound,2025-06-16,
+VS0997,Male,44,Kakuma 3,UNHCR Mobile Unit,Check-up,2025-06-03,Available
+VS0998,Female,56,Kakuma 3,Kakuma Health Center,Cough,,Out of Stock
+VS0999,Female,,Kakuma 4,UNHCR Mobile Unit,Maternity,2025-06-10,Available
+VS1000,Male,6,Kakuma 1,UNHCR Mobile Unit,,,Out of Stock
